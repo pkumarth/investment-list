@@ -1,17 +1,41 @@
 Good Result But Contra bet:
 --------------------------
+Kross Ltd 
+Jayaswal Neco  
+PC Jewellers
+Tatva Chintan Pharma Chem 
+Solara Active Pharma 
+Bajaj Healtcare
 IGIL
 India cement
+ICIC Bank
+Piramal Finance
 sg finserve 
+Aye Finance
+Ujjivan SFB
+Karur Vuasa
+Federal Bank 
+Union Bank
+Punjab Sind Bank
+Central Bank of India 
+Raghav Productivity 
+Modison Ltd 
+Onward Technologies 
+
+
 
 
 Inline  Result But Contra bet:
 --------------------------
 RajRatan Global
 NACL
+Mahindra & Mahindra Financial Services
 
 Good Result But Sector is in trend:
 -----------------------------------
+HFCL
+E2E
+Yash High Voltage
 
 
 
@@ -20,6 +44,29 @@ Inline Result But Sector is in trend:
 
 Worst  Result :
 ---------------
+Very Good/Blockbuster:
+Hindustan Zinc 
+Varmora Granito 
+Aksharchem 
+Aptus Pharma
+Himadri Speciality Chemicals 
+Crompton Greaves Consumer Electricals 
+Aurum Proptech 
+
+Supreme Power 
+Parin Enterprises 
+Lagnam Spintex 
+Indo Rama Synthetics 
+Paushak Ltd 
+
+Good/Decent:
+Elevate Campuses 
+BEPL
+LTTS
+Ultratech Cement 
+Koura Fine Diamond 
+Mangalam Global Enterprises 
+JP Power 
 
 
 
