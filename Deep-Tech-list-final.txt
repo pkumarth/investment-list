@@ -186,8 +186,14 @@ Plug Power
 
 B. Specialised Software COmpany:
 ---------------------------------
+=> PALANTIR TECHNOLOGIES ,KRATOS DEFENSE & SECURITY, 
+=> tesla ,spacex, TERADYNE INC
+=> TEMPUS AI INC,TWIST BIOSCIENCE ,Schrödinger Inc,CRISPR THERAPEUTICS AG, 10X GENOMICS INC,NATERA INC,ILLUMINA INC,GUARDANT HEALTH INC,ABSCI CORP,ELI LILLY & CO,CAREDX INC
+=> SHOPIFY INC , CIRCLE INTERNET GROUP INC,COINBASE GLOBAL INC,ROBINHOOD MARKETS INC
+=> The 3D Printing ETF : 3D SYSTEMS CORP,BICO GROUP AB,PROTO LABS INC, DENTSPLY SIRONA INC , AUTODESK INC, DASSAULT SYSTEMES SE 
+CIRCLE INTERNET GROUP INC
+SHOPIFY INC 
 Robinhood
-Twilio
 --
 Aspen Technology
 Ansys 
@@ -209,6 +215,7 @@ NVIDIA
 AMD
 Micron/SK Hynix /Samsung electronics
 TSMC 
+SYNOPSYS INC 
 
 E1: Space
 ---------
@@ -265,6 +272,7 @@ Twist Bioscience Corporation - high optionality
 Schrödinger, Inc. - high optionality
 Krystal Biotech
 CRISPR Therapeutics
+Not in portfolio but potetial ->10X GENOMICS INC, TEMPUS AI 
 Global CDMO & Pure-Play Peptide Peers:Bachem Holding ,PolyPeptide Group,Siegfried Holding,Oxford Biomedica
 Integrated Life Sciences Tools & Animal Health-Thermo Fisher Scientific , Zoetis Inc.
 TSMC 
