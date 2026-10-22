@@ -1,0 +1,330 @@
+India Stock:
+------------
+
+Industrial Machinery:
+---------------------
+Inox India
+KRN Heat Exchanger/Aeroflex
+carborundum universal
+Jyoti CNC
+Wendt India
+Power Transformers-Transformers and Rectifiers India (TARIL)
+
+Prceison Engineering CDMO:
+--------------------------
+Inox India
+Sona Blw
+sansera  
+unimech aerospace 
+mtar
+Azad Eng
+PTC industry
+Bearing- Timken,scaffler
+
+Consumer and IT CDMO:
+--------------------
+Tata Consumer
+apcotex
+Praj Industry
+Eureka Forbes
+
+IT Products (SaaS): 
+----------------
+indegene
+Tata Elxsi
+Intellect Design Arena, 
+Newgen Software
+Nucleus Software
+Persistent Systems
+
+Hospital:
+----------
+Narayna Hrudalya
+HCG
+Yatharth
+Manipal Health
+Jeena Sikho
+NephroCare
+NephroPlus
+
+Diagnostics & Ancillaries:
+------------------------
+Vimta Labs
+Thyrocare
+Krsnaa Diagnostics, 
+Medi Assist
+
+CDMO / CRDMO:
+-----------
+Max India
+Inox India
+---
+Viyash Scientific
+Biocon
+Syngene International
+Sai Life science	
+Anthem Biosciences
+Laurus Labs
+Divi’s Laboratories
+Piramal Pharma
+OneSource Specialty
+Neuland Labs
+Concord biotech 
+Fementa biotech
+Acutaas Chemical
+Cohance Lifesciences
+Suven Pharma
+DCAL
+Aarti Pharma lab
+Hikal
+Shilpa Medicare
+Bajaj Healthcare
+Gland Pharma
+Jubliant Pharmova
+Venus Remedies 
+Ganesha remedies
+Amantha healthcare
+Alivus Life
+Entero
+Indegene
+GLP‑1 Small-Cap Ladder: Shaily, OneSource, Blue Jet, Sigachi
+
+
+High Margin Pharma:
+-------------------
+Sudeep Pharma
+Blue Jet Healthcare
+Supriya Lifescience
+Solara Active Pharma
+Vikram Thermal
+Advance enzyme
+--
+Natco Pharma
+Granules India
+Kopran
+Aarti Drugs
+fairchem organics
+
+No concall and operating cashflow -ve  but good Growth:
+-------------------------------------------------------
+shivalik rasyan
+Makers Labs
+medicamen biotech
+nitta gelatin 
+resoanance specialities 
+vikram arora
+vikram thermo
+
+Branded Generics(India or developing nation like asia ,africa,latin america):
+----------------------------------------------------------------------------
+India:Torrent Pharma, mankind, Jagsonpal Pharmaceuticals,RPG Life Sciences, FDC
+Latin America/Africa/Asia: Orchid Pharma, Senores Pharma,
+
+India Genric CDMO:
+----------------
+Windlas
+nnova captab
+Akum Drugs
+
+Commodity Pharma:
+-----------------
+Beta Drugs
+SMS Pharma
+IOL Pharma
+
+Chemical CDMO, Speciality and Commodity:
+----------------------------------------
+Tatva Chinton
+Acutaas Chemicals
+Aether Indurtry
+Navin Fluorine
+Anupam Rasyan
+Shivalik Rasyan
+PI Industry
+SRF
+--
+Jubliant Ingrevia
+DMCC Speciality
+Privi Speciality , SH Kelkar
+Vinati Organics
+Chambal fertilizer
+--
+Deepal Ferilizer
+Deepak Nitrite 
+Fairchem Organics
+NOCIL
+
+
+EV & Auto Components:
+-------------------
+Sona Comstar
+Ather Energy
+Ola Electric Mobility
+---
+Chem:Sudeep Pharma,GFL,Neogen,Himadri Speciality ,PCBL,acutaas,navin
+Gases: iol chem
+water: ion exchange
+recycler: 
+
+
+
+
+
+Foreign Stock:
+--------------
+
+A. Defense
+--------
+Dassault Systèmes
+Palantir
+
+B. EV and clean tech:
+---------------------
+Tesla
+Enphase Energy
+Plug Power
+
+B. Specialised Software COmpany:
+---------------------------------
+Robinhood
+Twilio
+--
+Aspen Technology
+Ansys 
+--
+Synopsys
+Cadence Design Systems
+
+
+C. Distributed Ledger Technology (DLT) & Blockchain:
+-------------------------------------------------
+Coinbase Global
+MicroStrategy
+Riot Platforms 
+
+D.Advance Semiconductor:
+-----------------------
+ASML
+NVIDIA
+AMD
+Micron/SK Hynix /Samsung electronics
+TSMC 
+
+E1: Space
+---------
+Spacex
+Rocket Lab USA 
+Planet Labs PBC 
+AST SpaceMobile 
+
+E2. Artificial Intelligence & Machine Learning (AI/ML)
+-------------------------------------------------
+NVIDIA
+Anthropic
+Open AI
+Google Alphabet
+SpaceX
+
+F1. Advanced Networking
+----------------------
+Cisco Systems
+Lumen Technologies (NASDAQ: LUMN)
+Extreme Networks (NASDAQ: EXTR)
+
+F2. 5G & Next-Gen Infrastructure
+-----------------------------
+Nokia Corporation (NASDAQ: NOK)
+T-Mobile US (NASDAQ: TMUS)
+Airgain (NASDAQ: AIRG)
+
+F3. Autonomous Robotics
+-----------------------
+Symbotic
+iRobot Corporation
+Servotronix (NASDAQ listed via parent/partnerships) / Intuitive Surgical (NASDAQ: ISRG):
+
+G. Cycber Security
+-------------------
+• Palo Alto Networks: Known for next-gen firewalls, cloud-native security, and its Cortex AI platform.
+• CrowdStrike: Famous for its Falcon endpoint protection platform and real-time XDR threat hunting. 
+• SentinelOne: Famous for its Falcon endpoint protection platform and real-time XDR threat hunting. 
+• Fortinet: Renowned for high-performance network security, firewalls, and enterprise infrastructure defense.
+• Zscaler: A pioneer in cloud-delivered zero-trust security and secure web gateways.
+• Okta:
+--
+• Cloudflare: Excels in web application security, DDoS mitigation, and edge network protection
+• Check Point Software: Offers the Infinity and Harmony platforms for threat prevention and cloud posture management.
+• Cisco: Combines extensive enterprise networking infrastructure with massive scale security and analytics.
+• Microsoft Security: Combines massive threat intelligence signals with integrated tools like Microsoft Defender and Entra.
+
+H. Biotechnology
+----------------
+B-1:Sajal Kapoor Holding
+------------------------
+Twist Bioscience Corporation - high optionality
+Schrödinger, Inc. - high optionality
+Krystal Biotech
+CRISPR Therapeutics
+Global CDMO & Pure-Play Peptide Peers:Bachem Holding ,PolyPeptide Group,Siegfried Holding,Oxford Biomedica
+Integrated Life Sciences Tools & Animal Health-Thermo Fisher Scientific , Zoetis Inc.
+TSMC 
+Practice Plus Group (UK):
+
+B0: Robotics
+-------------
+Servotronix (NASDAQ listed via parent/partnerships) / Intuitive Surgical (NASDAQ: ISRG):
+B1:Genomics & Gene Editing
+--------
+Illumina (NASDAQ: ILMN)
+CRISPR Therapeutics (NASDAQ: CRSP):
+Natera (NASDAQ: NTRA)
+B2.Synthetic Biology (SynBio)
+--------
+Twist Bioscience (NASDAQ: TWST)
+Ginkgo Bioworks (NASDAQ: DNA)
+Beam Therapeutics (NASDAQ: BEAM)
+B3: AI-Driven Drug Discovery
+--------
+Schrödinger (NASDAQ: SDGR)
+Recursion Pharmaceuticals (NASDAQ: RXMD)
+Iambic Therapeutics (NASDAQ: IAM)
+B4. Equipment/Insurance/Hospital etc:
+-----------------------------------
+B5. Biopharma (Biopharmaceuticals)
+--------
+AstraZeneca (NASDAQ: AZN)
+Moderna (NASDAQ: MRNA)
+Jazz Pharmaceuticals (NASDAQ: JAZZ)
+B6. CRDMO
+--------
+Key Industry Trends
+• Biologics & ADCs: Growth is heavily driven by complex biologics, antibody-drug conjugates (ADCs), and messenger RNA (mRNA) pipelines.
+• Cell & Gene Therapy: Specialized providers like Lonza and Catalent continue to expand dedicated viral vector and cell therapy facilities.
+• Geographic Expansion: Major players are investing heavily in localized manufacturing capacity across the U.S., Europe, and Asia to mitigate supply chain risks.
+--
+• Lonza: Best for end-to-end biopharma, small molecules, cell and gene therapies, and antibody-drug conjugates (ADCs).
+• Samsung Biologics: Best for large-scale mammalian cell culture and massive commercial manufacturing output.
+• Thermo Fisher Scientific (Patheon): Best for a broad global network, clinical trial supplies, and oral solid dosage forms.
+• WuXi Biologics / WuXi AppTec: Best for fast-paced development, rapid scale-up, and integrated discovery-to-market pipelines.
+• Catalent: Best for specialized drug delivery technologies (like Zydis fast-dissolve) and viral vectors.
+The top 10 contract development and manufacturing organizations (CDMOs) worldwide:
+• Lonza Group AG (Switzerland) – Globally recognized as the leading CDMO, specializing in mammalian biologics, cell and gene therapies, small molecules, and bioconjugates.
+• Thermo Fisher Scientific (United States) – Operates its extensive CDMO services through its renowned Patheon brand, offering comprehensive small molecule and sterile fill-finish capabilities.
+• Catalent (United States) – Now operating under Novo Holdings, it is a major provider of drug delivery solutions, advanced biologics, and oral solid dosages.
+• Samsung Biologics (South Korea) – A global leader in massive industrial-scale mammalian biologics manufacturing, antibodies, and mRNA solutions.
+• WuXi AppTec / WuXi STA (China) – Highly integrated CRDMO providing small molecule active pharmaceutical ingredient (API) development and advanced peptide lines.
+• WuXi Biologics (China) – Focuses entirely on biologics, delivering end-to-end development for monoclonal antibodies (mAbs), bispecifics, and antibody-drug conjugates (ADCs).
+• Siegfried Holding AG (Switzerland) – A critical network specialized in complex chemical custom synthesis, small-molecule APIs, and finished-dosage forms.
+• Fujifilm Diosynth Biotechnologies (Japan/United States) – A global bio-CDMO partnering extensively with large pharma to scale up cell cultures, vaccines, and advanced biopharmaceuticals.
+• Boehringer Ingelheim Biopharmaceuticals (Germany) – Recognized for its specialized BioXcellence platform, offering premier commercial manufacturing of mammalian and microbial cultures.
+• Recipharm AB (Sweden) – A major European backbone for commercial drug production, leading in sterile fill-finish, advanced therapy medicinal products (ATMPs), and oral solids.
+B7.Agricultural Technology (AgTech) & Gene Editing
+-----------------------------------------------
+Calyxt / Cellectis (NASDAQ: CLLS)
+Bioceres Crop Solutions (NASDAQ: BIOX)
+
+F.Quantum Computing:
+-------------------
+IonQ (NYSE/NASDAQ: IONQ)
+D-Wave Quantum (NASDAQ: QBTS)
+Quantum Computing Inc. (NASDAQ: QUBT)
