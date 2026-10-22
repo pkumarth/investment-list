@@ -6,12 +6,14 @@ India cement
 nuvoco
 crisil 
 kaynes
+suntec reality
 bkt
 Kross Ltd 
 Jayaswal Neco  
 PC Jewellers
 Tatva Chintan Pharma Chem 
 Solara Active Pharma 
+Shilpa Medicare 
 Bajaj Healtcare
 ICIC Bank
 Piramal Finance
@@ -26,6 +28,7 @@ Central Bank of India
 Raghav Productivity 
 Modison Ltd 
 Onward Technologies 
+Omnitech Engineering
 --
 INDIA Hotel
 ICICI Bank
