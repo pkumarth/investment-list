@@ -366,6 +366,8 @@ B7.Agricultural Technology (AgTech) & Gene Editing
 -----------------------------------------------
 Calyxt / Cellectis (NASDAQ: CLLS)
 Bioceres Crop Solutions (NASDAQ: BIOX)
+B8. top US innovative medical device manufacturers include 
+ Intuitive Surgical, Medtronic,Dexcom,Align Technology,Abbott Laboratories,  Johnson & Johnson, Boston Scientific,Element Science,Cresilon,Merit Medical Systems
 
 F.Quantum Computing:
 -------------------
