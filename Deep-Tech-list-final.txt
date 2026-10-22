@@ -189,6 +189,7 @@ B. Specialised Software COmpany:
 => PALANTIR TECHNOLOGIES ,KRATOS DEFENSE & SECURITY, 
 => tesla ,spacex, TERADYNE INC
 => TEMPUS AI INC,TWIST BIOSCIENCE ,Schrödinger Inc,CRISPR THERAPEUTICS AG, 10X GENOMICS INC,NATERA INC,ILLUMINA INC,GUARDANT HEALTH INC,ABSCI CORP,ELI LILLY & CO,CAREDX INC
+=> etf: Moderna Inc., Twist Bioscience Corp., 10x Genomics, Inc., Illumina, Inc., Guardant Health, Inc., Natera, Inc., Genscript Biotech Corp., Bio-Techne Corp., Vertex Pharmaceuticals Inc., BioMarin Pharmaceutical Inc.
 => SHOPIFY INC , CIRCLE INTERNET GROUP INC,COINBASE GLOBAL INC,ROBINHOOD MARKETS INC
 => The 3D Printing ETF : 3D SYSTEMS CORP,BICO GROUP AB,PROTO LABS INC, DENTSPLY SIRONA INC , AUTODESK INC, DASSAULT SYSTEMES SE 
 CIRCLE INTERNET GROUP INC
@@ -231,6 +232,34 @@ Anthropic
 Open AI
 Google Alphabet
 SpaceX
+Artfcl Intlgc Supercycle:
+• Micron Technology Inc.
+• Advanced Micro Devices Inc.
+• Marvell Technology Inc
+• Semtech Corp.
+• Taiwan Semiconductor Manufacturing
+• Intel Corp.
+• Vertiv Holdings Co
+• GE Vernova Inc.
+• Silicon Motion Technology Corp
+
+Memory ETF (DRAM):
+• Samsung electronics(~18.8%)
+• SK Hynix Inc (~15.0%)
+• Micron Technology Inc (Direct/Swap exposure, ~25% combined)
+• Seagate Technology Holdings plc (~4.8%)
+• Western Digital / SanDisk ecosystem players
+AI Chipmaking ETF (CHIP): Global semiconductor equipment, wafer fabrication, advanced packaging, and metrology (excluding generic chip designers and foundries)
+• Tokyo Electron Limited  (~5.1%)
+• Applied Materials, Inc. (AMAT) (~5.2%)
+• Lam Research Corporation (LRCX) (~5.1%)
+• KLA Corporation (KLAC) (~5.1%)
+• ASE Technology Holding Co., Ltd. (ASX) (~5.1%)
+• Teradyne, Inc. (TER) (~5.0%)
+• ASM International NV (~4.9%)
+• ASML Holding N.V. (~4.9%)
+• BE Semiconductor Industries N.V. (BESI) (~4.7%)
+• Advantest Corporation (~4.6%)
 
 F1. Advanced Networking
 ----------------------
@@ -258,6 +287,12 @@ G. Cycber Security
 • Fortinet: Renowned for high-performance network security, firewalls, and enterprise infrastructure defense.
 • Zscaler: A pioneer in cloud-delivered zero-trust security and secure web gateways.
 • Okta:
+Rubrik, Inc
+Netskope
+Qualys
+Varonis Systems 
+Tenable Holdings
+
 --
 • Cloudflare: Excels in web application security, DDoS mitigation, and edge network protection
 • Check Point Software: Offers the Infinity and Harmony platforms for threat prevention and cloud posture management.
