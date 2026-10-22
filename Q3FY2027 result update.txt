@@ -2,14 +2,17 @@ Good Result But Contra bet:
 --------------------------
 Tata Teleservices
 IGIL
+India cement
+nuvoco
+crisil 
+kaynes
+bkt
 Kross Ltd 
 Jayaswal Neco  
 PC Jewellers
 Tatva Chintan Pharma Chem 
 Solara Active Pharma 
 Bajaj Healtcare
-IGIL
-India cement
 ICIC Bank
 Piramal Finance
 sg finserve 
@@ -23,6 +26,9 @@ Central Bank of India
 Raghav Productivity 
 Modison Ltd 
 Onward Technologies 
+--
+INDIA Hotel
+ICICI Bank
 
 
 
