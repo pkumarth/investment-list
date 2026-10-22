@@ -292,6 +292,7 @@ Netskope
 Qualys
 Varonis Systems 
 Tenable Holdings
+Rapid7 Inc RPD
 
 --
 • Cloudflare: Excels in web application security, DDoS mitigation, and edge network protection
@@ -371,3 +372,10 @@ F.Quantum Computing:
 IonQ (NYSE/NASDAQ: IONQ)
 D-Wave Quantum (NASDAQ: QBTS)
 Quantum Computing Inc. (NASDAQ: QUBT)
+
+Invesco Aerospace & Defense:
+---------------------------
+Palantir Technologies (12.77%), RTX Corp (9.17%), Lockheed Martin (8.52%), General Dynamics (8.49%), and Northrop Grumman (7.77%), TransDigm,SpaceX, Boeing,  GE Aerospace
+
+
+
