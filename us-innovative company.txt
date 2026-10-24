@@ -16,11 +16,13 @@ A.Sequencing technology
 10x genemomics
 A. Gene Editing Stocks
 CRISPR Therapeutics (CRSP)
-Editas Medicine (EDIT)
 Intellia Therapeutics (NTLA)
-Caribou Biosciences (CRBU)
 Beam Therapeutics (BEAM)
 Prime Medicine (PRME)
+Editas Medicine (EDIT)
+Caribou Biosciences (CRBU)
+
+
 B. Synthesis Biology
 twist bioscience
 illumina
