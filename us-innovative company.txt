@@ -21,7 +21,7 @@ Intellia Therapeutics (NTLA)
 Caribou Biosciences (CRBU)
 Beam Therapeutics (BEAM)
 Prime Medicine (PRME)
-B. Custom Gene Synthesis Stocks
+B. Synthesis Biology
 twist bioscience
 illumina
 C. genomics AI  platform
