@@ -11,7 +11,8 @@ GUARDANT HEALTH INC
 ELI LILLY & CO
 CAREDX INC
 
-schrodinger
+A.Sequencing technology
+10x genemomics
 A. Gene Editing Stocks
 CRISPR Therapeutics (CRSP)
 Editas Medicine (EDIT)
@@ -19,6 +20,13 @@ Intellia Therapeutics (NTLA)
 Caribou Biosciences (CRBU)
 Beam Therapeutics (BEAM)
 Prime Medicine (PRME)
+B. Custom Gene Synthesis Stocks
+twist bioscience
+illumina
+C. genomics AI  platform
+schrodinger
+D. Lifesicence tool
+Thermofischer
 
 Space & Defense Innovation:
 ---------------------------
