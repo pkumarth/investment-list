@@ -1,6 +1,7 @@
 
 ---
-cyber security:  Palo Alto Networks & ZScaler, crowstrike,sentinelone,Fortinet Inc,Okta Inc,cloudflare,Rubrik Inc
+us cyber security:  Palo Alto Networks & ZScaler, crowstrike,sentinelone,Fortinet Inc,Okta Inc,cloudflare,Rubrik Inc
+Indian cyber security: Emudra,TAC Infosec , tech D,Quick Heal,Orient technology,kartikal,63moons technology, 
 ---
 Financial Service: SG Finserve, fed fina,iifl finance , karur vyasa, federal, icici
 Block Buster Number: SG Finserve, fed fina, federal bank, solara pharama, Jayaswal Neco ,Paushak(margin and quater decline) ,tips,
