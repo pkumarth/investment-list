@@ -1,1 +1,13 @@
+Margin expansion:
+-----------------
+OPM latest quarter >= (OPM preceding quarter + 2%) AND
+Return on capital employed  - Return on capital employed preceding year > 1 AND
+Market Capitalization > 10000
 
+OPM latest quarter > (OPM preceding quarter + 1%) AND
+OPM preceding quarter > (OPM two preceding quarter + 1%) AND
+PercentDown < 30 AND
+Market Capitalization >10000 
+
+Debt Reduction:
+---------------
