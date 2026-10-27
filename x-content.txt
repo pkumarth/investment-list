@@ -1,4 +1,4 @@
-
+semiconductor value chain => https://pbs.twimg.com/media/HVoUadjaUAAeQXY?format=jpg&name=4096x4096
 ---
 us cyber security:  Palo Alto Networks & ZScaler, crowstrike,sentinelone,Fortinet Inc,Okta Inc,cloudflare,Rubrik Inc
 Indian cyber security: Emudra,TAC Infosec , tech D,Quick Heal,Orient technology,kartikal,63moons technology, 
