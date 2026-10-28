@@ -1,17 +1,5 @@
 Tech Mahindra
 India Hotel
-----content---
-What the market is likely valuing
-1.Near-term      ADC revenue potential: Cohance > Shilpa > Anthem > Laurus
-2. Platform      quality / scientific depth: Anthem ≈ Cohance > Shilpa > Laurus
-3.ADC      optionality and rerating potential: Shilpa > Laurus > Cohance      > Anthem
-4. Execution      visibility: Cohance and Anthem currently have the strongest      visibility.
-For an ADC-focused investor today, I'd classify:
-Cohance      = ADC execution story
-Shilpa      = ADC capacity-utilization story
-Anthem      = premium CRDMO with ADC upside
-Laurus      = long-duration ADC call option embedded in a broader CDMO business
-
 
 ---Contra Bet---
 Manorama
@@ -20,7 +8,7 @@ IGI
 -- Multiple Optionality and Quality Mgmt----
 Mgmt: 1. Trustworthy 2. Capable 3. High in Energy (Soul in the Game) 4. Gret Executor
 Tata Elaxsi,LTTS,New gen , Indegene ,IKS
-SonaBlw,Sansera,Azad,UniMech,Styrenix,Axiscades,Aequs, Lumax Auto Tech ,SJS ,TT India,
+SonaBlw,Sansera,Azad,UniMech,Styrenix,Axiscades,Aequs, Lumax Auto Tech ,SJS ,TT India, Centum Electronics 
 Laurus,Anthem,Sai Life Sciences,Divis,Neuland,Gland,Shilpa Medicare,Sudeep pharma
 Acutaas, Aether Industry, Navin Florine, Anupam Rasyan, Privi  , tatva chinton
 Aether Energy,Piramal Pharma, one source pharma
@@ -74,3 +62,35 @@ Proventus Agrocom
 Profit and margin declining:
 ---------------------------
 FDC
+
+--------------------------------------------------content---------------------------------------------------
+What the market is likely valuing
+1.Near-term      ADC revenue potential: Cohance > Shilpa > Anthem > Laurus
+2. Platform      quality / scientific depth: Anthem ≈ Cohance > Shilpa > Laurus
+3.ADC      optionality and rerating potential: Shilpa > Laurus > Cohance      > Anthem
+4. Execution      visibility: Cohance and Anthem currently have the strongest      visibility.
+For an ADC-focused investor today, I'd classify:
+Cohance      = ADC execution story
+Shilpa      = ADC capacity-utilization story
+Anthem      = premium CRDMO with ADC upside
+Laurus      = long-duration ADC call option embedded in a broader CDMO business
+
+Aerospace , if you want to understand the Indian market these are things you should read/watch ( reposting this )    
+1) Aequs DRHP ( for the data only on latest trends )   
+2) Dynamatic Annual reports ( last 3 years )+ AGM of last year Video is there on you tube   
+3) HAL Annual reports last 3 years and Bharat Shakti Youtube channel for on ground management Interviews of smaller co's   
+4) Ideaforge and Zen for smaller co's , read their investor presentations and product catalogues for capabilty mapping  
+5)  Azad/PTC for their Deep industry capabilities in niche turbines and Titanium forging   
+6) Unimech to understand the MRO market plus tooling's hour business   
+7)Defence Ministry annual report  
+8) OEM Investor presentations ( Airbus and Boeing )  
+9) Certification depth ( NADCAP/AS9100)    
+
+-----------------------------------Book------------------------------------------------
+Few good books to read - 
+
+1. Zurich axioms
+2. Maxims for thinking analytically
+3. Thinking in bets 
+4. All I Want To Know Is Where I'm Going To Die So I'll Never Go There: Buffett & Munger - A Study in Simplicity and Uncommon, Common Sense
+5. Inside Unreal Estate: A Journey through India’s Most Controversial Sector
