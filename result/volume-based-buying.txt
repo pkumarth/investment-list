@@ -1,0 +1,50 @@
+Volume Based Buying(Mkt cap > 4000):
+-----------------------------------
+• Patanjali Foods
+• K P R Mill Ltd
+• United Breweries
+• Piramal Pharma
+• Syngene Intl.
+• PG Electroplast
+• Tips Music
+• SBFC Finance
+• Titagarh Rail
+• Standard Engineering Technology
+• HEG Advanced Materials
+• FDC
+• Midwest
+• Aarti Drugs
+
+Volume Based Buying(Mkt cap < 4000):
+-----------------------------------
+• Hubtown
+• Ramky Infra
+• PNGS Reva Diamo.
+• Poojaa Precision Engg.
+• Titan Biotech
+• Sh.Pushkar Chem.
+• Jyoti Structures
+• Nelcast
+• Asian Star Co.
+
+Volume Based Selling(Mkt cap > 1000):
+-----------------------------------
+• Star Health Insu
+• Cartrade Tech
+• Stylam Industrie
+• Subros
+• Styrenix Perfor.
+• AWL Agri Busine.
+• Unimech Aero.
+• Yasho Industries
+• Refex Industries
+• Gandhar Oil Ref.
+• Knack Packaging
+• NIIT
+• Wealth First Por
+• Voith Paper
+• 20 Microns
+• Euro India Fresh
+
+
+
