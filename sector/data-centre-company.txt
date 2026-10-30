@@ -1,0 +1,21 @@
+Interesting observation from the Q2FY27 conference call.
+
+Aeroflex is evolving from a flexible hose manufacturer into a broader supplier of liquid-cooling solutions for AI data centres.
+
+Here's what's changing:
+
+1. Liquid cooling is becoming a major business. It contributed 24% of H1FY27 revenue. AI data centres need efficient cooling, creating a growing opportunity for Aeroflex's skid assemblies and engineered hose solutions.
+
+2. Capacity expansion is accelerating. The company plans to invest ₹202 crore to increase hose capacity from 20 million to 30 million metres annually and skid capacity from 15,000 to 30,000 units by March 2028.
+
+Management expects these additional capacities to generate ₹500–550 crore of annual revenue potential at peak utilization.
+
+3. International expansion could unlock better realizations. Discussions for liquid-cooling supplies to international markets have reached an advanced stage with an existing customer. Management expects international realizations to be higher than domestic levels.
+
+4. Moving beyond its existing products. Aeroflex is developing complementary products for liquid-cooling infrastructure, potentially allowing it to supply more components per data-centre project.
+
+5. Hyd-Air merger could improve efficiency. Integrating Hyd-Air's manufacturing capabilities could reduce operational duplication and help Aeroflex sell more fittings through its existing customer relationships.
+
+6. Automation is strengthening manufacturing capabilities. Welding automation aims to improve productivity, reduce manual dependency and lower product rejection.
+
+The bigger picture: Aeroflex is increasing its exposure to AI infrastructure while expanding manufacturing capacity and broadening its product portfolio.
