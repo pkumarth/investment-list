@@ -1,0 +1,143 @@
+Analyse business of greenlam industries  as of date 31 oct 2026 . 
+1. analyse business model of the company . 
+2. What is its product segment , its contribution percentage in total revenure . Its customer segment wise. What is competitive advantage/weakness  of product in each segment . is product segment is commodity or speciality having moat , if moat why and not then why
+3. What is risk in the company .Identoy all risk and risk of substitution from outsider . commodotisation ,regulation etc 
+4. What is mgmt. trustworthiness history . Is mgmt. is visionary and good capital allocator in right segment . What is execution track record of the company. 
+5. Any fraud new about company either related party transation or tax or pledging or any other
+6. What is new capability mgmet have invested and how much advantage can come in future.
+7. Check whether OCF/EBIDTA is above 65 percent. Also trende in inventory days , payable ,recibale and cash conversion track record 
+8. what is current sales growth , ebitda growth ,gross margin and margin expansuion  trend , and profit growth .Is this is sustainable
+9. Track record of debt from last 3 year
+10. evaluate reason of ROE and ROCE trend 
+11. What is mgmt guidelines in latest quarter for future growth and capex
+12. is latest result is excellent and market is satisfied by them
+13. What is technical moment score of company and current rsi 
+14. can we invest for 30% cagr return expectation in  next 5 year
+
+-----
+in pharma company in india what shall be safer eb/ebitda for margin of saFETY in investment 1. generic pharma company 2. branded pharma 3. Pure cdmo company 4. mix cdmo plus api manufacturer 5. mic branded and unbranded pharma. Also add 5-6 example of company working in that segment .i am analysis on 31 oct 2026
+
+Hospital:
+---------
+
+Diagnosis:
+---------
+
+Pharma Equipment:
+-----------------
+
+Pharma Retail/Distribution:
+--------------------------
+
+Branded pharma India
+--------------------
+Torrent Pharma
+Mankind Pharma
+JB Chem and Pharma
+Eris
+RPG Lifescience
+Jagsonpal
+FDC
+
+Branded Pharma(Non India):
+--------------------------
+Ajanta
+Ipca
+Emcure
+Alkem
+Micro Lab
+Maleods Pharma
+
+CDMO:
+----
+
+APi + CDMO:
+-----------
+
+genric indian CDMO:
+-------------------
+
+High Margin Pharma:
+-------------------
+Beta Drugs
+
+Mix of Branded and generic Pharma:
+---------------------------------
+Sun 
+Dr Reddy
+Glenmark
+cipla 
+Zydus
+Intus
+
+Genric Pharma usa/uk/Japan:
+----------------------------
+
+
+=> Core Financial Screen Rules for Your Analysis
+
+When inputting these commodity names into your financial modeling sheet on October 31, 2026, use these three screening filters to identify structural margin safety:
+1. Asset Turnover on Gross Block: Look for companies achieving a Fixed Asset Turnover above 1.5x–2.0x. Because gross margins are thin, the business must sweat its physical assets rapidly to deliver an acceptable Return on Capital Employed (ROCE).
+2. Inventory Days & Receivable Drag: Commodity plays are forced to offer longer credit terms to bulk corporate buyers. A widening working capital cycle is the first warning sign of inventory dumping or severe price erosion in the channel.
+3. China Sourcing Dependency: Assess what percentage of their raw intermediates or KSMs are imported. If a company is not backward integrated, an upward price spike in raw Chinese chemical baselines will completely compress its operating EBITDA margins.
+
+A. Pure-Play Commodity & Generic API Manufacturers
+Bajaj Healthcare Limited (BAJAJHCARE)
+Aarti Pharmalab
+Shilpa Medicare
+Supriya lifesciences
+Solara Activa Pharma
+Granules 
+Nectar Lifescience
+Aurora Life science
+SMS Pharma
+IOL Chemicals and Pharmaceuticals
+Aarti Drugs
+Vashudha Pharma
+B. Cyclical Niche Commodity & Bulk Material Processors
+Fermenta Biotech
+Kopran
+NittacGelatin
+Jubliant Ingrevia 
+C.High-Volume Generic Exporters (US & Regulated Market Volume Plays)
+Aurobindo
+Lupin
+Alembic
+Marksan 
+Caplin Point Lab
+Indo Remedies
+
+
+commodity Pharma:
+----------------
+
+
+Precison Mfg High Quality:
+-------------------------
+ Unimech Aerospace and Manufacturing  
+
+
+
+Precison Mfg going to  Quality:
+-------------------------------
+
+
+Precison Mfg cnc mchine/bearing/abrasive:
+-----------------------------------------
+
+
+Precison Mfg moving auto ancilliary to aerospace:
+-------------------------------------------------
+
+
+Defense
+-------
+
+Ship building:
+-------------
+
+
+--------------------------
+CaplinPointLabs (NSE: CAPLIPOINT)
+
+
