@@ -1,0 +1,110 @@
+
+Sekhar
+@LearningEleven
+·
+18h
+Timepass talk on Sunday
+
+1. India’s CDMO Inflection Point - FY27; Originally shared on March 29, 2026; Now adding, latest updates
+
+Clearly, India’s CDMO opportunity is still much smaller than China’s, but relative to where we were a few years ago, the ecosystem has evolved meaningfully. FY27–FY28 could well turn out to be the scale years for the sector.
+
+Latest: This trend has been reaffirmed by several management teams, with both CDMO and CMO activity picking up significantly and multiple CDMO/CMO companies announcing major capex plans.
+
+Acutaas
+
+March Update: Guided for ~₹1,000 crore CDMO revenue by FY28, with four products validated in FY26 expected to start contributing to the topline from FY27, providing clear visibility into the next phase of growth. In parallel, the company has taken a strategic step into semiconductor chemicals, specifically raw materials for photoresists, through its South Korea acquisition, adding a new high-growth vertical to the business. That said, the stock has seen a sharp run-up recently and may not offer the most attractive entry point at current valuations.
+
+Latest: The company now expects to achieve its ₹1,000 crore CDMO revenue target in FY27, one year ahead of schedule, driven by strong existing and new contracts. With an expanding pipeline, including potential billion-dollar products, management has set a new target of ₹2,000 crore CDMO revenue by FY30, doubling the business in three years.
+
+Navin Fluorine
+
+March Update: CDMO revenues of ₹360 crore in 9MFY26, with a target of ₹850–880 crore (~$100 million) by FY27. The company has a pipeline of 10–15 molecules. Beyond CDMO, multiple capacities in other verticals are expected to go live in FY27 offering strong earnings uptick!
+
+Latest: Navin's CDMO revenue has reached ₹419 crore in H1FY27, delivering an impressive 80% YoY growth!
+
+Sai Life Sciences
+
+March Update: Manufacturing capacity to expand from ~700 KL in FY26 to 925 KL by Q1FY27 and 1,150 KL by Q4FY27 (≈65% increase). Added 7 molecules in FY26 (3 commercial, 4 in Phase III). Sai will be the primary supplier in two of these molecules . They are expected to sustain the margins in the range of 28% to 30%.
+
+Latest: Sai Life's management had indicated in previous concalls that capacities would come online by year-end. We need a concrete update in the Q2 concall, as the execution seems to be progressing slower than expected.
+
+Divi’s Laboratories
+
+March Update: Three large dedicated projects under execution, with commercial volumes expected from H2CY27. Over 18 MT peptide capacity, including Tirzepatide and potentially Orforglipron post regulatory approvals. GLP molecules are expected to add significant growth!
+
+Latest: Custom Synthesis contributed 60% of Q1FY27 revenue, key driver behind the 65% YoY PAT growth. The company also appears on track to commence commercial GLP-1 volumes in H2FY27. Q2 results slated for next week!
+
+Laurus Labs
+
+March Update: Barring a few logistical disruptions stemming from the Iran conflict, the company is expected to deliver a strong Q4 and maintain healthy growth in FY27 over FY26.
+
+Latest: Not only did they deliver a strong FY26 close, but they also posted stellar 71% CDMO growth in H1FY27. Adding to the momentum, they commercialized significant SPPS capacity in peptides and an acquisition to strengthen their oligonucleotide capabilities!
+
+March Update: Valuations may not appear cheap, but as the saying goes, value ultimately lies in the eye of the beholder.
+
+Latest: Still hold the same view, value ultimately lies in the eye of the beholder. Additionally, Neuland Labs has commercialized its Peptides block, Piramal Pharma has shown signs of a turnaround, and Aarti Pharma's CDMO story continues to expand. FY27 could also mark a turnaround year for Cohance Life.
+
+And the list keeps growing, with several new CDMO and CMO players continuing to emerge!
+
+Where to Focus: Focus on ambitious management teams, meaningful capacity expansion, and capability building across emerging modalities such as Peptides, ADCs, and Oligonucleotides, positioning for the next wave of CDMO growth.
+
+2. Between the Lines: Signals from the Concall Room
+
+Tempsens Instruments: "...we are adding 5 projects which are commissioning between FY27 Q4 and Q3 of FY28 with the aggregated peak revenue potential of about ₹500 crore at full utilization..." [for context, FY26 revenues were ₹445 crore]
+
+Goodluck: "...we expect revenue contribution from this order [defence] in the later part of the current financial year..."
+
+Sky Gold: "...value-added products now make up over half our revenue from insignificant percentage 3 years ago...FY23 as a whole we did ₹35 crore of exports, while in current quarter alone we have achieved ₹435 crore...once this mandate [SEBI guidelines for QIP period] is closed, we will again revisit our numbers...[upgraded guidance?]"
+
+Ramkrishna Forgings: "[On Aerospace business]...And I think very soon we will be able to give some news which really means for our investors...It's not that we are going forward with any Tier 1, Tier 2s. We are in discussion directly with OEMs..."
+
+Bharat Parenterals: "...On 20th October, the first product Inoxyl makes under a CMO agreement was exported to the US by our sponsor partner..."
+
+Privi Speciality: "...we learned from our mistakes in the past. And now definitely when we also enter into contracts, we ensure to have a quarterly, you know, pricing mechanism for the freight..."
+
+Shaily Engineering Plastics: "...Commercial supplies have commenced for consumer electronics, and we are progressively scaling production of the 5 components awarded by our new customer. We would start trial production of semiconductor packaging in Q3 FY '27, expect to start commercial shipments in Q4..."
+
+Aether Industries: "...our target is to have more than $100 million of business with Baker Hughes in the very near future...Yeah, it's[New Agro-CEM] a pipeline molecule. It's a launch molecule and it's patented under IP...And the qualification is finished...Supply will start from January, February onwards..."
+
+Clean Science: "...Key raw materials such as phenol, acetone, and methanol were 50 to 100% higher year on year alongside an increase in coal and freight costs. With Chinese prices yet to move up, the pass-through to the customers was difficult..."
+
+3. Gravita India
+
+Challenges this FY
+
+The central problem is scrap supply. A West Asia/Gulf conflict disrupted imports and logistics, and the Gulf region has effectively stopped supplying material. At the same time, the domestic market tilted against organised players because unorganised dealers enjoyed an ~18% GST-related cost advantage. The result is that lead volumes fell to 39,203 MT in Q2, from 44,187 MT a year ago and 43,897 MT in Q1, the lowest in several quarters. Overall volumes grew only 3% YoY. Growth is being carried by the RMIL copper acquisition (₹420 cr of Q2 revenue at an 8.5% EBITDA margin) rather than the core business. H1 revenue grew 40% and EBITDA 29%, but PAT grew only 10%. Q2 PAT margin slipped to 7.15% from 9.27%, and standalone profit fell about 50% while consolidated PAT rose 6%. RMIL’s utilisation has also stalled around 50% because of internal bottlenecks, and copper working capital has stretched as the company imports more US scrap. Capacity utilisation is only 47% while large capex is under way. Q2’s copper EBITDA of ₹84,671/t was lifted by a one-off mix of high-value orders, and management itself calls ₹65–70/kg sustainable.
+
+Where they stand now
+
+Management says “the worst is over” on lead, but the evidence is mostly forward-looking. New geographies were booked in Q2, with material arriving from Q3 given an 80–90 day working-capital cycle. The 57th GST Council recommended reverse charge on e-waste scrap and battery scrap, which has not been notified, but management says dealers on the ground are already offering scrap again. Last quarter’s mix was 74% imported and 26% domestic. The board has approved Gravita Recyclers USA with US$50,000 of initial capital. It has no operations yet, will lease its yards, and is expected to take 1–2 years to become fully operational. It is meant to cut out aggregators, which management says is worth 2–3% of margin. At RMIL, management expects utilisation to reach 65–70% in 2–3 quarters, with further growth needing new capex over about 3 years. Copper is fully hedged and lead is hedged, while aluminium can’t be hedged. The balance sheet looks adequate, with an ICRA AA rating and expansions funded from internal accruals. The Mandvi copper plant (29,400 tpa, ~₹160 cr) is guided to start within 12 months.
+
+The outlook to FY29
+
+The plan is to take capacity from about 4.76 lakh MT to 8 lakh+ MTPA by FY29, with ₹1,680 cr of capex through FY29 (₹815 cr for existing businesses, the rest for new verticals). Management guides lead volumes at 18–20% CAGR over 3 years. They also guide copper EBITDA to ₹80–90/kg once Mandvi and Mundra provide backward integration, which the Mundra phases targeting March 2029 are meant to support. They expect domestic sourcing to rise to 40–50% of scrap. The 7-year BWMR window closes around FY29, which management expects to bring a surge in EPR credit demand (indicative band ₹5.40–18/kg), and a CPCB electronic credit platform is being developed. Vision 2030 targets 20–25% volume CAGR, 30–35% profit growth, ~25% ROIC and 60%+ value-added share. Lithium-ion recycling volumes are 4–5 years away and are excluded from those targets. The plan depends on execution. Capacity is set to grow ~67% while FY27 volumes are flat, scrap availability is what management calls the “only constraint”, the reverse-charge benefit isn’t yet notified, and US sourcing is costlier and unproven. FY26 ROIC of 24% is already just under the 25% target before the heavy capex lands.
+
+4. SteamHouse India
+
+Steamhouse India runs “community boilers”: it generates steam centrally, from coal-fired and increasingly waste-fired plants, and pipes it to many industrial customers in a cluster, so they don’t need their own boilers. Its markets are mainly Gujarat industrial estates (Ankleshwar, Panoli, Vapi, Sachin, Nandesari) serving chemical, agrochemical and pharma units. It also buys and distributes third-party steam and has just started selling nitrogen. It listed via IPO on 17 September 2026.
+
+Challenges in Q2
+
+Q2 is seasonally weak because of the monsoon, and this year it was worse. July floods shut industrial estates in Surat, Vapi, Ankleshwar and Nandesari, and one third-party steam supplier was down for a month of scheduled maintenance. Wet coal and higher transmission losses also cut the efficiency of converting fuel into steam. As a result, steam volumes fell 1.36% QoQ to 3,01,642 t, even though they were up 12.06% YoY. EBITDA fell from ₹30.93 cr in Q1 to ₹24.68 cr, PAT fell from ₹18.34 cr to ₹7.77 cr, and EBITDA/t dropped from about ₹1,000 to about ₹818. Revenue grew only 2.4% YoY to ₹128 cr, and EBITDA margin was flat at 19.3% (versus 19.4%). Interest cost also rose from about ₹6 cr to ₹9.6 cr, because ₹130 cr of debt raised in Q1 was repaid with IPO money only at the end of the quarter. Operating cash flow turned negative as IPO proceeds were used to pay creditors early. Return ratios were diluted by the larger equity base (ROCE 12.97%, ROE 4.53%, both non-annualised). Utilisation is still only 42.41%, and Q2 was a miss against what the Street expected after Q1.
+
+Where they stand now
+
+Management says the Q2 dip was seasonal and that it had flagged this on the Q1 call. They point to YoY improvement: EBITDA is up 73% and PAT up 167%. EBITDA/t was higher by more than ₹300 YoY, helped by buying coal for cash instead of on credit and by good utilisation of the waste-to-steam plant. Coal cost is largely passed through, with a lag of about 15 days. Steam prices were raised 17–18% from Q1 to Q2, matching a similar rise in coal, so management attributes the margin dip to monsoon efficiency losses and not to pricing. Coal (4,200 GCV, imported Indonesian) is still elevated at ₹10,000–10,500/t, after peaking at ₹10,500–11,000/t in September. The IPO has cut net debt/equity to 0.16x from 1.57x, and management expects interest cost to come in slightly below ₹6 cr per quarter. Trade payables are near zero, and creditors are expected to stay at ₹0–10 cr. Customer stickiness is high, with 99.48% of H1 revenue from repeat customers. Most contracts carry no penalty for non-supply, and the few that do are calculated on a quarterly minimum guarantee, with no penalty ever paid. Jagadia is expected to start selling steam in November.
+
+Outlook for H2 FY27 and FY28
+
+Management guides FY27 volume growth of about 25% (about 13.25 lakh t versus 10.66 lakh t in FY26). With H1 at only 14.35%, H2 needs roughly 35% growth over H1, which management confirmed. This rests on new capacity (Jagadia, Vapi, Nandesari, Piranha, plus the Dahej SEZ and Haldia trading projects) and deeper penetration of existing sites. FY28 volume growth is guided at more than 35%, with EBITDA/t of ₹1,100-1,200 (versus ₹916 in H1 FY27), driven by waste-to-steam plants. These plants cost 1.5-1.75x as much to build as coal-fired ones, but opex is 50-55% lower, with a 2.5-3.5 year payback. The Una (Himachal) EPC project and the nitrogen plant (expected by end-CY2026) are add-ons, and Una’s margins will be lower than the core business. The main risks are execution on a steep H2 ramp, utilisation (still only 42%) and the timing of the waste plants.
+
+5. Steelcast Limited
+
+Steelcast is an established Indian manufacturer of high-quality steel and alloy steel castings, with over 66 years of manufacturing experience and a strong presence in the global casting industry. Based in Gujarat, the company manufactures sand and shell castings weighing between 5 kg and 2,500 kg, with approximately 75% of its castings shipped as fully machined products. Steelcast caters to nine industrial sectors, including mining, earthmoving, construction, railways, cement, defence and transportation, supplying reputed domestic and international OEMs, including Fortune 500 companies. With an installed capacity of 29,000 tonnes per annum, the company has developed a diversified customer base and export presence across multiple geographies. In FY26, it reported revenue of ₹423 crore, EBITDA of ₹130 crore and PAT of ₹87 crore, supported by strong profitability and operational efficiency.
+
+Ramkrishna Forgings spoke about robust demand for export opportunities in Casting...!
+
+Steelcast's growth is expected to be driven by rising demand from its existing customers, the commercialisation of newly developed components and increasing capacity utilisation. Mining, earthmoving and construction currently contribute approximately 70% of revenue, while the company is steadily diversifying into other industrial sectors and export markets. Over the past 18–24 months, Steelcast has developed more than 100 new components, which are expected to enter serial production and contribute approximately 20% of revenue over the next 2–3 years. Ground Engaging Tools (GETs) represent another emerging opportunity, with management targeting a revenue contribution of 4.5–5% by FY29, compared with less than 1% currently. Additionally, a ₹120 crore investment in a new 8,500 TPA greenfield foundry will support future growth, while renewable energy projects and operating leverage could strengthen profitability as volumes scale up.
+
+FY27 and FY28: Management guided to 25% volume growth in FY27, with price on top, then said 30% is a “distinct possibility”. EBITDA margins are expected to improve by 150-200 bps in FY27, driven by operating leverage and price hikes. The management anticipates sequential improvement in topline for the next several quarters. Beyond FY27, the company is targeting approximately 20% CAGR over the coming years. The new foundry is targeted for commissioning on March 31, 2028, the final day of FY28, so it should not meaningfully contribute to FY28 revenue. Growth in FY28 is therefore expected to come primarily from existing capacity, customer demand and new component ramp-ups, with the new facility’s contribution beginning in FY29.
