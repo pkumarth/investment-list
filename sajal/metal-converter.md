@@ -1,3 +1,27 @@
+
+---
+
+## 📖 Table of Contents
+1. [Core Analytical Framework for Converter Businesses](#-1-core-analytical-framework-for-converter-businesses)
+2. [Module 1: Indian Steel Pipes & Tubes Sector](#-2-module-1-indian-steel-pipes--tubes-sector)
+   - [Product Hierarchy & Moat Profiles](#21-the-5-core-steel-pipe-categories--moat-profiles)
+   - [Unit Economics Ladder & Why "EBITDA Margin %" is a Trap](#22-why-ebitda-margin--is-a-misleading-metric-in-converters)
+   - [Success Mantra vs. Via Negativa Risk Factors](#23-the-success-mantra-of-winning-pipe-converters)
+   - [The Global & Domestic Line-Pipe Boom (₹2 Lakh Cr Theme)](#24-the-global--domestic-line-pipe-boom)
+   - [Q1 FY27 Case Study: Welspun Corp vs. Man Industries vs. Jindal SAW](#25-the-great-q1-fy27-divergence-welspun-vs-man-industries-vs-jindal-saw)
+3. [Module 2: Indian Plastic Pipes (Polymer Converter) Sector](#-3-module-2-indian-plastic-pipes-polymer-converter-sector)
+   - [Value Migration & Polymer Chemistry Hierarchy (UPVC, CPVC, HDPE, PPR, OPVC)](#31-value-migration--the-5-plastic-pipe-chemistries)
+   - [The "Plumber Moat" (Principal-Agent Problem) & Fittings Economics](#32-the-principal-agent-problem--why-fittings-are-the-true-moat)
+   - [CPVC Compounding vs. Commodity Resin Backward Integration](#33-cpvc-resin--compounding-lubrizol-vs-in-house-compounding)
+   - [Peer-to-Peer (P2P) Comparison: Top 6 Franchises](#34-peer-to-peer-p2p-comparison-of-major-plastic-pipe-players)
+   - [High-ROCE Adjacencies: Water Tanks & Adhesives](#35-high-roce-adjacencies-water-tanks--adhesives)
+   - [Head-to-Head: Structural Steel Pipes (APL Apollo) vs. Plastic Pipes (Astral/Supreme)](#36-head-to-head-metal-pipes-vs-plastic-pipes)
+4. [Module 3: CNC Metal-Cutting Machines (Subtractive Metal Conversion)](#-4-module-3-cnc-metal-cutting-machines-subtractive-metal-conversion)
+   - [1-Axis to 5-Axis Complexity Ladder](#41-what-is-a-cnc-machine--the-axis-complexity-moat)
+   - [Macro Demand Drivers & Case Study: Jyoti CNC vs. Lokesh Machines](#42-case-study-comparison-jyoti-cnc-automation-vs-lokesh-machines)
+5. [Master Investor Checklists](#-5-master-investor-checklists)
+6. [Source Video References](#-6-source-video-references)
+
 ---
 
 ## 🏗️ SECTION 1: Indian Pipe & Steel Tube Industry
@@ -50,28 +74,6 @@ The pipe and tube industry is heavily segmented by raw material, manufacturing p
 **Focus Verticals:** Steel Pipes & Tubes | Plastic Pipes & Fittings | CNC Metal-Cutting Machines  
 *(Part of the broader Converter & Value-Added Engineering Series: Pipes, Bearings, Abrasives, Forgings, Castings, Fasteners, CNC, Construction Equipment)*
 
----
-
-## 📖 Table of Contents
-1. [Core Analytical Framework for Converter Businesses](#-1-core-analytical-framework-for-converter-businesses)
-2. [Module 1: Indian Steel Pipes & Tubes Sector](#-2-module-1-indian-steel-pipes--tubes-sector)
-   - [Product Hierarchy & Moat Profiles](#21-the-5-core-steel-pipe-categories--moat-profiles)
-   - [Unit Economics Ladder & Why "EBITDA Margin %" is a Trap](#22-why-ebitda-margin--is-a-misleading-metric-in-converters)
-   - [Success Mantra vs. Via Negativa Risk Factors](#23-the-success-mantra-of-winning-pipe-converters)
-   - [The Global & Domestic Line-Pipe Boom (₹2 Lakh Cr Theme)](#24-the-global--domestic-line-pipe-boom)
-   - [Q1 FY27 Case Study: Welspun Corp vs. Man Industries vs. Jindal SAW](#25-the-great-q1-fy27-divergence-welspun-vs-man-industries-vs-jindal-saw)
-3. [Module 2: Indian Plastic Pipes (Polymer Converter) Sector](#-3-module-2-indian-plastic-pipes-polymer-converter-sector)
-   - [Value Migration & Polymer Chemistry Hierarchy (UPVC, CPVC, HDPE, PPR, OPVC)](#31-value-migration--the-5-plastic-pipe-chemistries)
-   - [The "Plumber Moat" (Principal-Agent Problem) & Fittings Economics](#32-the-principal-agent-problem--why-fittings-are-the-true-moat)
-   - [CPVC Compounding vs. Commodity Resin Backward Integration](#33-cpvc-resin--compounding-lubrizol-vs-in-house-compounding)
-   - [Peer-to-Peer (P2P) Comparison: Top 6 Franchises](#34-peer-to-peer-p2p-comparison-of-major-plastic-pipe-players)
-   - [High-ROCE Adjacencies: Water Tanks & Adhesives](#35-high-roce-adjacencies-water-tanks--adhesives)
-   - [Head-to-Head: Structural Steel Pipes (APL Apollo) vs. Plastic Pipes (Astral/Supreme)](#36-head-to-head-metal-pipes-vs-plastic-pipes)
-4. [Module 3: CNC Metal-Cutting Machines (Subtractive Metal Conversion)](#-4-module-3-cnc-metal-cutting-machines-subtractive-metal-conversion)
-   - [1-Axis to 5-Axis Complexity Ladder](#41-what-is-a-cnc-machine--the-axis-complexity-moat)
-   - [Macro Demand Drivers & Case Study: Jyoti CNC vs. Lokesh Machines](#42-case-study-comparison-jyoti-cnc-automation-vs-lokesh-machines)
-5. [Master Investor Checklists](#-5-master-investor-checklists)
-6. [Source Video References](#-6-source-video-references)
 
 ---
 
