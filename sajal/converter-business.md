@@ -22,7 +22,13 @@ This master handbook compiles all 12 in-depth institutional analyses, unit-econo
 
 # Section 1: The Metal Converter Sector (Core Unit Economics)
 
-From an investor's point of view, **a metal converter is fundamentally a "spread and volume" processing business, not a commodity price play**. Unlike primary metal producers (miners and integrated smelters) whose fortunes are tied to global commodity cycles (LME prices), metal converters purchase base metals (HR coils, ingots, billets, or scrap) and convert them into downstream, value-added industrial products—such as structural tubes, pipes, wires, specialty alloys, bimetals, or powders.
+From an investor's point of view, **a metal converter is fundamentally a "spread and volume" processing business, not a commodity price play**. Unlike primary metal producers (miners and integrated smelters) whose fortunes are tied to global commodity cycles (LME prices), metal converters purchase base metals (HR coils, ingots, billets, or scrap) and convert them into downstream, value-added industrial products—such as 
+structural tubes(apl apolo tube,ratnamani,smabhav,jindla stainless,surya roshani,jindal saw,welspun,hi tech pipe ,JTL,Man ,Venu pipe), 
+pipes(), 
+Wires & Wire Rods(ushan martin,Bansal wire,Rajratan Global), 
+specialty alloys(Jindal Stainless, MMP Industries,Vardhman Special steel), 
+bimetals(shivalik bimetal,Bimetal wearing), or 
+powders(Inomet advanced material,MMP industries).
 
 Understanding the distinction between a pure commodity producer and a converter is critical because the market frequently misprices converters during commodity booms and busts.
 
