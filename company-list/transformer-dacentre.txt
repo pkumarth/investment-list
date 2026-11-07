@@ -16,3 +16,61 @@ Data Centre:
 -----------
   Ratnaveer Precison 
 ,
+============================================== Power Energy Sector ========================================================
+• Heavy Electricals & T&D (6): Hitachi Energy, CG Power, GE Vernova T&D, Siemens Energy India, Schneider Electric Infra, Atlanta Electricals.
+• Power Generation & Thermal Equipment (4): BHEL, Thermax, TD Power Systems, Triveni Turbine.
+• Renewable Energy Equipment & Structures (3): Suzlon Energy, Inox Wind, Karamtara Engineering.
+• Industrial Automation & Mobility (2): ABB India, Siemens.
+• Precision Engineering (1): Azad Engineering
+
+
+
+Master Classification (22 Unique Companies)
+-------------------------------------------
+1. Heavy Electrical Equipment & Power Transmission (T&D) — OEMs & Systems
+
+Companies manufacturing power/specialty transformers, reactors, switchgear, and grid stabilization equipment.
+
+Company	Primary Sub-Sector	Core Business & Product Focus
+Hitachi Energy India	Power Grid & High-Voltage T&D	HVDC systems, high-voltage switchgear, power transformers, and grid automation.
+CG Power & Industrial Solutions	Industrial & Power Systems	Power/distribution transformers, switchgear, industrial motors, and railway propulsion.
+GE Vernova T&D India	Power Grid & High-Voltage T&D	Power transformers, circuit breakers, gas-insulated switchgear (GIS), and grid software.
+Siemens Energy India	Power Generation & T&D Equipment	High-voltage switchgear, transformers, substations, and gas/steam turbines.
+Schneider Electric Infrastructure	Power Distribution & Grid Automation	Medium/low-voltage switchgear, distribution transformers, and smart grid management.
+Transformers & Rectifiers (TARIL) (New)	Power & Specialty Transformers	Extra-high voltage (EHV) power transformers (up to 1,200 kV), furnace, rectifier, and shunt reactors.
+Atlanta Electricals (Already #15)	Power & Specialty Transformers	Power transformers (up to 765 kV), auto-transformers, and inverter-duty transformers.
+Shilchar Technologies (New)	Specialty & Renewable Transformers	Inverter-duty transformers (solar/wind), electronics/telecom transformers, and distribution transformers.
+Quality Power Electrical Equipments (New)	Grid Connectivity & Power Quality	High-voltage reactors (HVDC/FACTS), STATCOM, harmonic filters, and special-purpose transformers.
+Kanohar Electricals (New)	Power Transformers & Substation EPC	Power/traction transformers (up to 400 kV), shunt reactors, GIS, and turnkey substation EPC.
+
+
+2. T&D Ancillaries & Critical Transformer Components — (New Sub-Sector)
+
+Specialized Tier-1 component manufacturers supplying critical insulation, conductor, and bushing inputs to transformer and motor OEMs.
+
+Company	Primary Sub-Sector	Core Business & Product Focus
+KSH International (New)	Magnet Winding Wires & Conductors	Continuously Transposed Conductors (CTC) and insulated magnet winding wires for power transformers, EV motors, and generators.
+Yash Highvoltage (New)	High-Voltage Transformer Bushings	OIP (Oil Impregnated Paper) and RIP/RIS (Resin Impregnated) condenser bushings and high-current bushings for transformers.
+
+
+3. Industrial Automation, Electrification & Diversified Engineering
+
+• ABB India: Industrial automation, robotics, motion drives, motors, and electrification.
+• Siemens: Factory automation, digital industries, smart infrastructure, and railway mobility.
+
+4. Power Generation Equipment & Industrial Boilers
+
+• BHEL: Utility-scale thermal/hydro boilers, turbines, generators, nuclear, and defense.
+• Thermax: Industrial boilers, heating/cooling systems, water treatment, and captive power.
+• TD Power Systems: Custom AC generators (up to 200 MW) for steam, gas, hydro, and wind turbines.
+• Triveni Turbine: Industrial steam turbines (up to 100 MW) and aftermarket services.
+
+5. Renewable Energy Equipment & Infrastructure
+
+• Suzlon Energy: Wind turbine generators (WTGs), rotor blades, and O&M services.
+• Inox Wind: Wind turbine generators, turnkey wind EPC, and O&M services.
+• Karamtara Engineering: Solar mounting structures, solar trackers, wind towers, and T&D towers.
+
+6. Precision Engineering (Aerospace, Defense & Energy Components)
+
+• Azad Engineering: 3D rotating airfoils, turbine blades, and mission-critical components.
