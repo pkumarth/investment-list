@@ -1,0 +1,562 @@
+Here is the complete 250-company universe structured by Sector → Subsector → Subsector Bifurcation (granularity based on specific chemistry platforms, value-chain positioning, and operating models), followed by a consolidated master classification table.
+1. Chemicals & Petrochemicals
+1.1 Specialty Chemicals (Platform & Niche)
+Fluorochemicals & Fluoropolymers
+16. SRF (Fluorochemicals, Refrigerants, Specialty Intermediates & Packaging Films)
+
+23. Gujarat Fluoroch (Fluoropolymers, PTFE, PVDF, New-Age Battery/EV Chemicals)
+
+25. Navin Fluo.Intl. (Specialty Fluorochemicals, CDMO, HFOs)
+
+75. Tanfac Inds. (Anhydrous Hydrofluoric Acid, Potassium Fluoride & Derivatives)
+
+129. Stallion India (Refrigerant Gases & Fluorochemicals Blending/Packaging)
+
+245. Alufluoride (Aluminium Fluoride for Smelters)
+
+Amines & Aliphatic Derivatives
+68. Alkyl Amines (Aliphatic Amines, Amine Derivatives, Acetonitrile)
+
+86. Balaji Amines (Methylamines, Ethylamines, Specialty Derivatives, DMF/NMP)
+
+197. Indo Amines (Fatty Amines, Fine & Performance Chemicals)
+
+198. Amines & Plast. (Alkyl Alkanolamines, Gas Treating Solvents, Plasticizers)
+
+Phenol, Benzene & Nitration / Aromatic Chains
+33. Aether Industri. (Complex Specialty Intermediates, CRAMS/CDMO, Large-Scale Mfg)
+
+34. Deepak Nitrite (Phenol, Acetone, Sodium Nitrite, Optical Brighteners & Fine Chemicals)
+
+38. Aarti Industries (Benzene-based Chlorination, Nitration, Ammonolysis & Hydrogenation)
+
+43. Atul (Aromatics, p-Cresol, Epoxy Resins, Bulk & Crop Protection Chemicals)
+
+49. Anupam Rasayan (Custom Synthesis, Continuous Flow Chemistry, Fluorinated/Aromatic Intermediates)
+
+64. Jubilant Ingrev. (Pyridine & Picolines, Diketenes, Acetyls & Nutrition)
+
+95. Laxmi Organic (Acetyl Intermediates, Diketene Derivatives & Fluorochemicals)
+
+187. Valiant Organics (Chlorophenols, Para Amino Phenol, Ammonolysis & Hydrogenation)
+
+214. Sadhana Nitro (Meta Amino Phenol, ODB-2 & Nitrobenzene Derivatives)
+
+Bromine, Lithium, Phosgene & Inorganic Derivatives
+70. Neogen Chemicals (Bromine Derivatives, Grignard Reagents, Lithium Salts & Electrolytes)
+
+91. Archean Chemical (Marine Chemicals: Industrial Salt, Bromine & Sulphate of Potash)
+
+103. Tatva Chintan (Structure Directing Agents [SDAs], Phase Transfer Catalysts, Electrolyte Salts)
+
+105. Vishnu Chemicals (Chromium & Barium Specialty Compounds)
+
+153. Paushak (Phosgene-based Specialty Chemicals & Isocyanates)
+
+211. Chemcon Special. (HMDS, CMIC & Inorganic Bromides)
+
+215. Transpek Inds. (Thionyl Chloride & Acid Chlorides via Chlorination Chemistry)
+
+Catalytic, Monomer & Polymer Additives
+56. Vinati Organics (ATBS, IBB, Isobutylene, Butyl Phenols & Antioxidants)
+
+74. Clean Science (Catalytic Vapor-Phase Chemistry: MEHQ, BHA, Guaiacol, HALS)
+
+130. NOCIL (Rubber Chemicals: Accelerators, Antioxidants & Vulcanization Agents)
+
+203. OCCL (Insoluble Sulphur for Tire Industry)
+
+242. Devson Catalyst (Specialty Chemical Catalysts & Adsorbents)
+
+Oleochemicals, Surfactants, Flavors & Fragrances (F&F)
+40. Fine Organic (Plant-based Oleochemical Food & Polymer Additives)
+
+50. Privi Speci. (Pinene/Turpentine-based Aroma & Fragrance Chemicals)
+
+71. Galaxy Surfact. (Performance Surfactants & Mild Specialty Care Ingredients)
+
+141. S H Kelkar & Co. (Fragrances, Flavors & Aroma Ingredients)
+
+146. Oriental Aromat. (Terpene Chemistry, Camphor & Specialty Fragrances)
+
+190. Fairchem Organic (Oleochemicals: Dimer Acid, Linoleic Acid & Tocopherols)
+
+191. Sacheerome (Concentrated Flavors & Fragrances)
+
+199. Sunshield Chem. (Ethoxylates, Antioxidant & Surfactant Blends)
+
+207. Gem Aromatics (Mint Derivatives, Essential Oils & Aroma Chemicals)
+
+210. Jayant Agro Org. (Castor Oil-based Oleochemicals &Sebacic Acid)
+
+Dyes, Pigments & Textile/Industrial Auxiliaries
+67. Sudarshan Chem. (Organic, Inorganic & Effect Pigments)
+
+82. Fineotex Chem (Specialty Textile Chemicals & Finishing Auxiliaries)
+
+112. Kiri Industries (Reactive Dyes, H-Acid, Vinyl Sulphone & Dyestuff Intermediates)
+
+127. Rossari Biotech (Home/Personal Care, Textile Chemicals & Animal Health)
+
+134. Bodal Chemicals (Dye Intermediates, Dyestuffs & Chlor-Alkali)
+
+138. Sh.Pushkar Chem. (Dye Intermediates, Reactive Dyes & SSP Fertilizers)
+
+143. Indokem (Textile Dyes, Auxiliaries & Sizing Chemicals)
+
+144. Bhageria Indust. (Dye Intermediates: Vinyl Sulphone, H-Acid & Gamma Acid)
+
+151. Vidhi Specialty (Synthetic Food Grade Colours & Lake Pigments)
+
+175. Ultramarine Pig. (Ultramarine Blue Pigments & Surfactants)
+
+194. Sudarshan Colorants (Pigment Dispersions, Masterbatches & Colorants)
+
+Adhesives, Coatings, Sealants & Surface Treatment
+9. Pidilite Inds. (Consumer & Bazaar Adhesives, Construction Waterproofing & Resins)
+
+63. Elantas Beck (Electrical Insulation Varnishes, Wire Enamels & Electronic Resins)
+
+93. Foseco India (Foundry Metallurgical Chemicals, Coatings & Fluxes)
+
+110. Grauer & Weil (Electroplating Chemicals, Surface Finishing & Industrial Paints)
+
+182. Jyoti Resins (Synthetic Resin Wood Adhesives — Euro 7000)
+
+228. Chembond Chemic. (Water Treatment, Industrial Coatings & Construction Chemicals)
+
+Fine, Performance, Lab & Custom Chemicals
+51. BASF India (Diversified Agricultural, Care, Nutrition & Industrial Performance Solutions)
+
+94. Prasol Chemicals (Acetone & Phosphorous Derivatives)
+
+99. Yasho Industries (Antioxidants, Rubber, Lubricant & Aroma Chemicals)
+
+137. Titan Biotech (Biological Media, Peptones, Protein Hydrolysates &Collagen)
+
+147. Nitta Gelatin (Gelatin, Ossein, Collagen Peptide & Dicalcium Phosphate)
+
+152. Innovassynth Technologies (Nucleosides, Amidites & Custom Contract Research)
+
+154. Camlin Fine (Shelf-Life Solutions, Diphenols [HQ/Catechol], Vanillin & Blends)
+
+162. Citurgia Biochem (Calcium Carbonate & Fine Biochemicals)
+
+170. Indo Borax & Ch. (Boric Acid, Borax & Lithium Hydroxide)
+
+173. Platinum Industr (PVC & CPVC Lead-Free Stabilizers & Lubricants)
+
+184. Vikram Thermo (Methacrylic Acid Copolymer Pharma Enteric Coating Polymers)
+
+195. Sudarshan Pharma (Specialty Chemicals, APIs & Pharma Intermediates)
+
+213. Kronox Lab (High-Purity Fine & Excipient Chemicals for Pharma/Nutraceuticals)
+
+227. DMCC Speciality (Sulphur & Boron Chemistry, Sulfonation)
+
+234. SK Minerals & Additives (Specialty Feed & Food Grade Mineral Additives)
+
+239. Black Rose Indus (Acrylamide Liquid/Solid, Polyacrylamide & Chemical Distribution)
+
+1.2 Bulk & Commodity Chemicals
+Chlor-Alkali, Soda Ash & Vinyl/PVC Chain
+45. Tata Chemicals (Global Soda Ash, Sodium Bicarbonate & Specialty Silica)
+
+97. Gujarat Alkalies (Caustic Soda, Chloromethanes, Hydrogen Peroxide & Hydrazine Hydrate)
+
+98. GHCL (Dense & Light Soda Ash and Sodium Bicarbonate)
+
+104. Epigral (Chlor-Alkali, Epichlorohydrin [ECH], CPVC Resin & Chloromethanes)
+
+106. Chemplast Sanmar (Specialty Paste PVC Resin, Suspension PVC & Custom Manufactured Chemicals)
+
+158. DCW (Soda Ash, Caustic Soda, PVC, C-PVC & Synthetic Rutile)
+
+166. TGV Sraac (Caustic Soda, Caustic Potash, Chloromethanes & Castor Derivatives)
+
+181. Andhra Sugars (Caustic Soda, Aspirin, Sulphuric Acid & Sugar/Distillery)
+
+192. Sr.Rayala.Hypo (Calcium Hypochlorite, Stable Bleaching Powder & Monochloroacetic Acid)
+
+226. Tuticorin Alkali (Soda Ash & Ammonium Chloride)
+
+237. Primo Chemicals (Caustic Soda, Liquid Chlorine & Hydrochloric Acid)
+
+249. Chemfab Alka. (Caustic Soda Lye, Chlorine, Hydrogen & O-PVC Pipes)
+
+Sulphur & Basic Inorganic Acids
+209. Amal (Sulphuric Acid, Oleum, Sulphur Dioxide & Sulphur Trioxide)
+
+1.3 Petrochemicals, Polymers & Carbon Materials
+Styrenics, Polyols, Anhydrides & Polymer Compounds
+52. Supreme Petroch. (Polystyrene [PS], Expanded Polystyrene [EPS] & ABS)
+
+113. Styrenix Perfor. (ABS, SAN & Polystyrene Engineering Polymers)
+
+120. Bhansali Engg. (ABS & SAN Resins)
+
+122. DDev Plastiks (XLPE, HFFR & PVC Cable Compounds)
+
+140. I G Petrochems (Phthalic Anhydride [PAN], Maleic Anhydride & Plasticizers)
+
+156. BLS Polymers (Polyethylene & PVC Wire/Cable Compounds)
+
+157. Thirumalai Chem. (Phthalic Anhydride, Maleic Anhydride, Fumaric & Malic Acid)
+
+164. Manali Petrochem (Propylene Glycol, Polyols & Polyurethane Systems)
+
+183. T N Petro Prod. (Linear Alkyl Benzene [LAB], Epichlorohydrin & Heavy Normal Paraffin)
+
+208. Kothari Petroche (Polyisobutylene [PIB])
+
+223. Pasupati Acrylon (Acrylic Fibre, Tow, Tops & Cast Polypropylene [CPP] Films)
+
+247. Plastiblends (I) (Colour, White, Black & Additive Masterbatches)
+
+250. Vinyl Chemicals (Trading & Distribution of Vinyl Acetate Monomer [VAM])
+
+Carbon Black, Coal Tar Pitch & Calcined Petcoke
+29. Himadri Special (Coal Tar Pitch, Carbon Black & Lithium-Ion Battery Anode Materials)
+
+58. PCBL Chemical (Rubber & Specialty Carbon Black, plus Aquapharm Water Treatment)
+
+90. Rain Industries (Calcined Petroleum Coke [CPC], Coal Tar Pitch & Advanced Materials)
+
+185. Petro Carbon (Calcined Petroleum Coke for Aluminium & Steel Industries)
+
+Bitumen & Industrial Petro-Logistics
+229. Agarwal Indl. (Bitumen Import, Bulk Logistics & Bituminous Products)
+
+1.4 Industrial Gases & Energy Utilities
+Industrial & Medical Gases
+20. Linde India (Industrial, Medical & Specialty Gases; Air Separation Units & Cryogenic Engg)
+
+101. Ellen.Indl.Gas (Oxygen, Nitrogen, Argon, Helium & Medical Gases)
+
+Industrial Steam & Process Utilities
+107. Steamhouse India (Centralized Community Boiler & Piped Industrial Steam Supply)
+
+2. Agrochemicals & Fertilizers
+2.1 Agrochemicals (Crop Protection)
+CSM / CDMO & Export-Led Innovators
+26. UPL (Global Post-Patent Crop Protection, Biosolutions & Seeds)
+
+31. P I Industries (Agchem CSM/CDMO, In-licensed Domestic Brands & Pharma CDMO)
+
+81. Sharda Cropchem (Asset-Light Global Registration/Dossier Led Agchem Exporter)
+
+MNC & Domestic Branded Formulators
+37. Sumitomo Chemi. (Japanese MNC Parentage; Proprietary & Off-Patent Formulations, PGRs)
+
+41. Bayer Crop Sci. (German MNC Parentage; Crop Protection & Hybrid Corn Seeds)
+
+100. Dhanuka Agritech (Asset-Light Domestic Branded Formulator & Technicals)
+
+109. Rallis India (Tata Group Integrated Crop Protection, Seeds & Soil Health)
+
+Technical & Integrated Manufacturers (AI + Formulations)
+116. NACL Industries (Agrochemical Technicals, Formulations & Contract Manufacturing)
+
+126. Bhagiradha Chem. (Insecticide, Fungicide & Herbicide Technicals)
+
+136. GSP Crop Science (Integrated Technicals & Branded Formulations)
+
+149. Bharat Rasayan (Technical Grade Pesticides & Intermediates)
+
+150. Insecticid.India (Tractor Brand Formulations, Technicals & Biologicals)
+
+159. Meghmani Organi. (Agrochemical Technicals & Titanium Dioxide/Pigments)
+
+161. India Pesticides (Fungicide & Herbicide Technicals, Captan/Folpet)
+
+168. Excel Industries (Phosphorous-based Agchem Intermediates, DETC & Specialty Chemicals)
+
+172. Astec Lifescienc (Triazole Fungicides, Herbicides & CDMO)
+
+179. Punjab Chemicals (Agrochemical Technicals, Metamitron & Performance Chemicals)
+
+201. Dharmaj Crop (B2C Formulations, B2B Technicals & Institutional Export)
+
+204. Advance Agrolife (Crop Protection Formulations & Agri-Inputs)
+
+220. Uniphos Enter. (Agri-Input Trading & UPL Promoter Group Holding Entity)
+
+225. Heranba Inds (Synthetic Pyrethroids, Technicals & Formulations)
+
+236. Best Agrolife (Patented Ternary Formulations & Backward-Integrated Technicals)
+
+241. Shivalik Rasayan (Organophosphorus Agrochemicals & Oncology APIs)
+
+248. Blue Pearl Agri (Agricultural Commodities & Input Trading)
+
+2.2 Fertilizers & Soil Nutrients
+Phosphatic, Complex (DAP/NPK) & Micronutrients
+22. Coromandel Inter (Phosphatic Fertilizers, Phosphoric Acid, Crop Protection & Specialty Nutrients)
+
+48. Paradeep Phosph. (DAP, NPK Complex Fertilizers & Phosphoric Acid)
+
+65. M B Agro Prod. (Single Super Phosphate [SSP], Granulated SSP & NPK)
+
+73. Krishana Phosch. (Beneficiated Rock Phosphate, SSP & H-Acid)
+
+118. Jubilant Agri (Single Super Phosphate [SSP], Agri Polymers & Wood Finishes)
+
+202. Zuari Agro Chem. (Urea, DAP & NPK Complex Fertilizers)
+
+221. Aries Agro (Chelated Micronutrients & Water-Soluble Specialty Plant Nutrition)
+
+246. Khaitan Chemical (Single Super Phosphate [SSP] & Sulphuric Acid)
+
+Urea & Integrated Fertilizer-Chemical Complexes
+24. F A C T (Factamfos Complex Fertilizer, Ammonium Sulphate & Caprolactam)
+
+42. Chambal Fert. (Large-Scale Private Sector Urea Producer & Agri-Input Marketing)
+
+47. Deepak Fertilis. (Technical Ammonium Nitrate [TAN], Nitric Acid, IPA & NPK Fertilizers)
+
+77. G N F C (Neem Urea, ANP & Industrial Chemicals: TDI, Acetic Acid, Aniline, Formic Acid)
+
+87. R C F (Urea, Suphala Complex Fertilizers & Industrial Chemicals: Methanol, Methylamines)
+
+88. G S F C (DAP, Urea, Ammonium Sulphate, Caprolactam, Melamine & Nylon-6)
+
+114. Natl.Fertilizer (Kisan Brand Urea & Bio-Fertilizers)
+
+169. S P I C (Neem-Coated Urea)
+
+189. Madras Fertilize (Vijay Brand Urea & NPK Complex Fertilizers)
+
+3. Metals, Mining & Recycling
+3.1 Ferrous Metals (Steel, Iron & Ferro Alloys)
+Integrated Primary & Flat/Long Steel Producers
+3. JSW Steel (Tier-1 Integrated Flat & Long Steel Producer)
+
+5. Tata Steel (Global & Domestic Integrated Steel Producer with Captive Iron Ore)
+
+11. Jindal Steel (Integrated Steel, Rails, Plates, Structural Steel & Power)
+
+17. S A I L (Maharatna PSU Integrated Steel Producer)
+
+54. NMDC Steel (Nagarnar Integrated Hot Rolled Coil Steel Plant)
+
+Stainless Steel
+21. Jindal Stain. (India's Largest Integrated Stainless Steel Producer)
+
+Sponge Iron, Pig Iron, Secondary Steel & Ferro Alloys
+44. Sarda Energy (Integrated Steel, Ferro Alloys, Iron Ore Pellet & Hydro/Thermal Power)
+
+60. Vedanta Iron & Steel (Pig Iron, Metallurgical Coke & Iron Ore)
+
+79. Kirl. Ferrous (Pig Iron, Grey Iron Castings for Auto/Tractors & Seamless Tubes)
+
+83. Jai Balaji Inds. (Ductile Iron Pipes, TMT Bars, Ferro Alloys & Sponge Iron)
+
+84. Indian Metals (Integrated Ferro Chrome Producer with Captive Chromite Mines & Power)
+
+125. Maithan Alloys (Manganese-based Ferro Alloys: Ferro Manganese & Silico Manganese)
+
+132. Prakash Industri (Sponge Iron, Wire Rods, Ferro Alloys & Captive Coal)
+
+163. S.A.L Steel (Sponge Iron, Ferro Chrome & Rolled Products)
+
+176. Mangalam World. (Stainless Steel Billets, Ingots, Flats & Bars)
+
+200. Manaksia Steels (Cold Rolled Coils, Galvanized & Pre-Painted Steel Sheets)
+
+238. VISA Chrome (High Carbon Ferro Chrome)
+
+3.2 Non-Ferrous & Precious Metals
+Aluminium, Zinc, Copper & Diversified Base Metals
+4. Hindustan Zinc (Integrated Zinc, Lead & Silver Producer)
+
+6. Hindalco Inds. (Primary Aluminium, Copper & Novelis Flat-Rolled/Recycled Products)
+
+10. Vedanta Aluminium Metal (Smelting, Alumina Refinery & Captive Power Operations)
+
+12. Vedanta (Diversified Natural Resources: Zinc, Aluminium, Oil & Gas, Iron Ore, Power)
+
+19. Natl. Aluminium (Navratna PSU Integrated Bauxite-Alumina-Aluminium-Power Producer)
+
+27. Hindustan Copper (Vertically Integrated Copper Ore Mining to Cathode PSU)
+
+Downstream Aluminium Extrusions, Powders & Foils
+148. Arfin India (Aluminium Wire Rods, Deoxidizers, Cored Wire & Alloy Ingots)
+
+178. MMP Industries (Aluminium Powders, Pastes, Conductors & Foils)
+
+224. Maan Aluminium (Aluminium Extruded Profiles, Rods & Tubes)
+
+244. Innomet Advanced (Metal Powders [Copper, Bronze, Iron] & Tungsten Heavy Alloys)
+
+Precious Metals & Bullion
+69. Augmont Enterpri (Gold & Silver Refining, Bullion Trading & Digital Gold Platform)
+
+3.3 Mining & Industrial Minerals
+Iron Ore & Pelletization
+13. Lloyds Metals (Surjagarh Iron Ore Mining, Pelletization & DRI/Steel Expansion)
+
+18. NMDC (India's Largest Merchant Iron Ore Miner)
+
+35. KIOCL (Iron Ore Fines Beneficiation & Pelletization)
+
+133. Orissa Minerals (Iron Ore & Manganese Ore Mining PSU)
+
+Manganese, Lignite, Bauxite & Industrial Clays
+46. G M D C (Lignite, Bauxite, Fluorspar, Manganese & Rare Earth Elements)
+
+66. Sandur Manganese (Manganese Ore, Iron Ore, Ferroalloys & Coke)
+
+96. MOIL (India's Largest Manganese Ore Producer PSU)
+
+102. Ashapura Minech. (Bauxite, Bentonite, Bleaching Clay, Kaolin & Proppants)
+
+108. Dec.Gold Mines (Gold Exploration & Mining Development)
+
+111. Midwest Energy (Natural Stone/Granite Mining, Quartz Processing & Diamond Wire)
+
+219. 20 Microns (Micronized Industrial Minerals: Calcium Carbonate, Kaolin, Talc & Silica)
+
+3.4 Circular Economy & Metal Recycling
+Lead, Aluminium, Copper & Multi-Metal Recycling
+57. Gravita India (Global Lead, Aluminium, Plastic & Rubber Recycling)
+
+62. Jain Resource (Lead, Copper & Aluminium Recycling and Ingot Manufacturing)
+
+115. Pondy Oxides (Lead, Copper, Aluminium & Plastic Recycling)
+
+155. Ardee Industries (Secondary Lead & Lead Alloy Recycling)
+
+174. Nupur Recyclers (Non-Ferrous Metal Scrap Import, Shredding & Recycling)
+
+3.5 B2B Metal & Construction Material Distribution
+B2B Supply Chain & Steel Trading
+55. SG Mart (B2B Construction & Steel Material Marketplace — APL Apollo Group)
+
+61. Lloyds Enterpris (Steel Trading, Engineering Equipment & Real Estate)
+
+171. Arisinfra Solu. (Tech-Enabled B2B Construction Material Procurement Platform)
+
+232. BMW Ventures (TMT Bars, Steel Distribution & PVC Pipes)
+
+4. Cement, Building Materials & Construction Equipment
+4.1 Cement
+Pan-India & Multi-Region Majors
+2. UltraTech Cem. (India's Largest Grey, White Cement & Ready-Mix Concrete Producer)
+
+14. Ambuja Cements (Adani Group Flagship Pan-India Cement Platform)
+
+15. Shree Cement (North & Pan-India Cost-Leader Cement & Power Producer)
+
+28. J K Cements (Grey Cement & Global Leader in White Cement/Wall Putty)
+
+30. Dalmia BharatLtd (East, South & Pan-India Low-Carbon Footprint Cement Major)
+
+32. ACC (Adani Group Pan-India Cement & Ready-Mix Concrete Producer)
+
+39. JSW Cement (Green Slag/PSC & OPC Cement Producer)
+
+Regional & Mid/Small-Cap Cement
+36. The Ramco Cement (South & East India Cement Major)
+
+53. Nuvoco Vistas (East & North India Cement & RMX — Nirma Group)
+
+59. India Cements (South India Cement — UltraTech Subsidiary)
+
+76. Star Cement (Northeast India Market-Leading Cement Producer)
+
+80. Birla Corpn. (Central & North India Cement & Jute)
+
+85. JK Lakshmi Cem. (North, West & East India Cement)
+
+89. Prism Johnson (Central India Cement, H&R Johnson Tiles & RMC)
+
+121. Heidelberg Cem. (Central India Mycem Brand Cement)
+
+123. Orient Cement (South & West India Cement — CK Birla / Ambuja Acquisition)
+
+124. Mangalam Cement (North India Cement — BK Birla Group)
+
+135. K C P (South India & Vietnam Cement, Heavy Engineering & Sugar)
+
+139. Sagar Cements (South & Central India Cement)
+
+193. Sh. Digvijay Cem (Gujarat Coastal & Oil-Well Cement)
+
+205. NCL Industries (Nagarjuna Cement, Bison Panel Boards & Doors)
+
+218. Deccan Cements (South India Special & OPC/PPC Cement)
+
+235. Saurashtra Cem. (Hathi Brand Gujarat Cement)
+
+4.2 Building Products & Construction Systems
+Fibre Cement, AAC Blocks, Pipes & Facades
+119. Ramco Inds. (Fibre Cement Roofing Sheets, Calcium Silicate Boards & Cotton Yarn)
+
+131. Glass Wall Syst. (Architectural Unitized Glass Facades & Cladding Systems)
+
+188. BirlaNu Ltd (Formerly HIL Ltd: Charminar Roofing, Birla Aerocon AAC Blocks, Truefit Pipes & Parador Flooring)
+
+206. Visaka Industrie (Fibre Cement Sheets, Vnext Boards & ATUM Solar Roofs)
+
+216. Everest Inds. (Fibre Cement Boards, Roofing Solutions & Pre-Engineered Steel Buildings [PEB])
+
+243. BIGBLOC Const. (Autoclaved Aerated Concrete [AAC] Blocks & Panels)
+
+Scaffolding & Formwork Equipment
+233. Msafe Equipments (Aluminium Scaffolding, Ladders & Access Equipment)
+
+240. Teamtech Formwork (Modular Aluminium Formwork & Shuttering Systems)
+
+5. Explosives & Defense Energetics
+5.1 Industrial Explosives & Defense Payloads
+Mining Explosives, Detonators, Propellants & Warheads
+8. Solar Industries (Bulk/Cartridge Explosives, Detonators, Defense Propellants, Pinaka Rockets & Loitering Munitions)
+
+117. Prem. Explosives (Solid Propellants for Missiles/Space, Countermeasures & Industrial Explosives)
+
+142. Keltech Energies (Cartridge/Bulk Industrial Explosives & Expanded Perlite)
+
+145. GOCL Corpn. (Energetics, Mining Detonators, Electronic Detonators & Real Estate)
+
+167. Beezaasan Exp. (Slurry/Emulsion Explosives & Detonating Fuse)
+
+6. Paper, Packaging & Technical Textiles
+6.1 Paper & Packaging Boards
+Writing/Printing, Kraft, Recycled & Specialty Paper
+78. JK Paper (Office Papers, Virgin Packaging Boards & Coated Papers)
+
+92. West Coast Paper (Writing, Printing, Cup Stock & Optical Fibre Cables)
+
+160. Seshasayee Paper (Integrated Writing, Printing & Kraft Paper)
+
+165. Andhra Paper (Virgin Pulp Writing, Printing & Cup Stock Paper)
+
+180. N R Agarwal Inds (Recycled Duplex Boards & Writing/Printing Paper)
+
+186. T N Newsprint (Bagasse-based Writing/Printing Paper, Newsprint & Multilayer Packaging Board)
+
+196. Pudumjee Paper (Specialty Tissue, Food Greaseproof, Pharma & Hygiene Papers)
+
+212. Emami Paper (Multi-Layer Coated Packaging Boards & Newsprint)
+
+217. Satia Industries (Wood & Agro-Residue Based Writing/Printing Paper & Cutlery)
+
+230. Kuantum Papers (Agro & Wood-Based Writing & Printing Papers)
+
+6.2 Jute & Technical Textiles
+Industrial Jute Products
+222. Cheviot Company (Export-Oriented Jute Fabrics, Sacking & Technical Geotextiles)
+
+231. Gloster Ltd (Industrial & Consumer Jute Packaging, Floor Coverings & Geotextiles)
+
+7. Diversified Conglomerates & New Energy
+7.1 Diversified Incubators & Multi-Business Holdings
+Infrastructure, Materials, Energy & Defense Conglomerates
+1. Adani Enterp. (Airport Operations, Green Hydrogen/Solar Manufacturing, Data Centers, Roads & Mining Services)
+
+7. Grasim Inds (Viscose Staple Fibre [VSF], Chlor-Alkali, Birla Opus Paints, plus Holding Co. for UltraTech & Aditya Birla Capital)
+
+72. Swan Corp (Shipbuilding/Defense, LNG Terminal, Petrochemicals/Textiles & Real Estate)
+
+Solar & Renewable Energy
+177. Onix Solar (Solar PV Modules, Solar EPC & Renewable Energy Solutions)
