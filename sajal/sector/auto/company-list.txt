@@ -1,0 +1,245 @@
+PART 1: Automotive OEMs (Original Equipment Manufacturers)
+1. Passenger Vehicles (PV)
+Mahindra & Mahindra (M&M) (Also #1 in Tractors, LCVs & 3W/EVs)
+
+Maruti Suzuki
+
+Hyundai Motor India
+
+Tata Motors Passenger Vehicles (TMPV) (PV & 4W EV Leader)
+
+2. Two-Wheelers (2W - ICE & EV)
+Bajaj Auto (Also Global Leader in 3-Wheelers & E-2W/3W)
+
+TVS Motor Co. (Also strong in 3W & E-2W)
+
+Eicher Motors (Royal Enfield 2W + VECV Commercial Vehicles)
+
+Hero MotoCorp
+
+3. Pure-Play Electric Vehicles (2W / 3W / Buses)
+Ather Energy (Electric 2W)
+
+Ola Electric (Electric 2W)
+
+Zelio E-Mobility (Electric 2W & 3W)
+
+Mercury EV-Tech (Electric 2W, 3W & Custom EVs)
+
+Olectra Greentech (Electric Buses & Tippers)
+
+JBM Auto (Electric Buses OEM + Sheet Metal/Tooling Ancillary)
+
+4. Commercial Vehicles (CV), Buses & Specialty Vehicles
+Force Motors (LCVs, Vans, Ambulances, Utility Vehicles & OEM Engines)
+
+Automobile Corporation of Goa (ACGL) (Bus Body Builder for Tata Motors)
+
+⚙️ PART 2: Auto Ancillaries (Grouped by Component Vertical)
+1. Diversified Multi-Product Tier-1 Conglomerates
+Samvardhana Motherson International (Wiring, Vision Systems, Modules & Polymer)
+
+Bosch (Fuel Injection, Powertrain Tech, Mobility Electronics)
+
+Uno Minda (Switches, Lighting, Acoustics, Seating, Alloy Wheels, EV Tech)
+
+Tube Investments of India (Engineering Tubes, Metal Formed, Chains, Cycles & 3W/EVs)
+
+Endurance Technologies (Suspension, Aluminum Die-Casting, Braking, Transmission)
+
+CIE Automotive India (Forgings, Castings, Stampings, Gears, Composites)
+
+Varroc Engineering (Lighting, Polymer, Metallic & Electrical-Electronics)
+
+Minda Corporation (Mechatronics, Security Systems, Wiring Harness, Clusters)
+
+Sandhar Technologies (Locks, Mirrors, Sheet Metal, Cabins, Die-Casting)
+
+2. Tyres & Tyre Inputs (Valves / Bead Wire)
+MRF
+
+Balkrishna Industries (BKT) (Off-Highway / Agri / Mining Tyres)
+
+Apollo Tyres
+
+CEAT
+
+JK Tyre & Industries
+
+TVS Srichakra (Eurogrip) (2W, 3W & Off-Highway Tyres)
+
+Goodyear India (Farm & Consumer Tyres)
+
+Rajratan Global Wire (Tyre Bead Wire)
+
+Triton Valves (Tyre Valves & Cores)
+
+3. Forgings, Castings & Precision Machining
+Bharat Forge (Auto & Industrial/Defense Forgings)
+
+Sansera Engineering (Precision Forged & Machined Connecting Rods, Crankshafts)
+
+Craftsman Automation (Powertrain Machining & Aluminum Castings)
+
+Ramkrishna Forgings (CV & Railway Forgings)
+
+M M Forgings
+
+Kross Ltd (Forged Axles, Suspension & Tractor Components)
+
+Sundaram-Clayton (Aluminum Die-Castings)
+
+Alicon Castalloy (Aluminum Cylinder Heads & EV Castings)
+
+Rico Auto Industries (Aluminum & Ferrous Machined Castings)
+
+Pradeep Metals (Closed-Die Stainless & Carbon Steel Forgings)
+
+Poojaa Precision Engineering (Precision Machined Components)
+
+OBSC Perfection (Precision Metal Components)
+
+IST Ltd (High-Precision Machined & Stamped Parts)
+
+4. Gears, Transmission, Axles & Driveline
+Sona BLW Precision Forgings (Sona Comstar) (Differential Gears, EV Traction Motors, Starter Motors)
+
+Hero Motors (EV & ICE Powertrain, Gears & Transmission)
+
+Carraro India (Tractor & Off-Highway Axles and Transmissions)
+
+Uniparts India (3-Point Linkage Systems & Off-Highway Precision Parts)
+
+Divgi TorqTransfer Systems (Transfer Cases, EV Transmissions, Synchronizers)
+
+GNA Axles (Rear Axle Shafts & Spindles for CV/Tractors)
+
+Automotive Axles (CV Rear Drive Axles & Brakes)
+
+RACL Geartech (Precision Transmission Gears for 2W, Tractors & Recreational Vehicles)
+
+The Hi-Tech Gears (Transmission Gears & Engine Parts)
+
+Sar Auto Products (Gears, Gearboxes & Transmission Shafts)
+
+Adroit Industries (Propeller Shafts & Driveline Components)
+
+Kinetic Engineering (Gears, Shafts & EV Axles)
+
+5. Bearings & Rings
+Schaeffler India (Ball/Roller Bearings, Engine & Transmission Systems)
+
+Rolex Rings (Forged Bearing Rings & Auto Components)
+
+NRB Bearings (Needle & Cylindrical Roller Bearings)
+
+Menon Bearings (Engine Bearings, Bushes & Thrust Washers)
+
+6. Electricals, Wiring Harness, Sensors & Clusters
+Motherson Sumi Wiring India (Dedicated Domestic Wiring Harness)
+
+Dhoot Transmission (Wiring Harness, EV Chargers, Switches & Sensors)
+
+Pricol Ltd (Driver Information Systems/Clusters, Pumps & Actuators)
+
+Suprajit Engineering (Control Cables, Speedometer Cables, Halogen/LED Bulbs)
+
+Sedemac Mechatronics (ISG Controllers, ECUs & Sensorless Commutation Tech)
+
+India Nippon Electricals (Electronic Ignition Systems, Regulators, Alternators)
+
+Igarashi Motors India (Permanent Magnet DC Micro-Motors for Actuators)
+
+Sterling Tools (High-Tensile Fasteners & EV Motor Control Units/MCUs)
+
+7. Lighting, Glass, Interiors, Seating & Decals
+Lumax Auto Technologies (Integrated Plastic Modules, Shifters, Lighting, Oxygen Sensors)
+
+Lumax Industries (Automotive Lighting Systems)
+
+Fiem Industries (2W LED Lighting & Rear-View Mirrors)
+
+Asahi India Glass (AIS) (Automotive Safety Glass)
+
+Saint-Gobain Sekurit India (Automotive Glazing & Windshields)
+
+SJS Enterprises (Dials, 3D Lux Badges, Chrome Overlays, IML/IMD Aesthetics)
+
+NDR Auto Components (Car Seat Frames & Trims)
+
+Bharat Seats (Maruti Suzuki Seating Systems)
+
+8. Suspension, Braking, Steering & Chassis Systems
+ZF Commercial Vehicle Control Systems (CV Air Brakes, ABS, ADAS & Fleet Tech)
+
+Gabriel India (Shock Absorbers, Struts, Front Forks & Sunroofs)
+
+ASK Automotive (2W Brake Shoes, Advanced Braking Systems & Aluminum Castings)
+
+Jamna Auto Industries (Parabolic & Tapered Leaf Springs, Air Suspension)
+
+Rane (Madras) (Steering & Suspension Linkage, Rack & Pinion, Light Metal Castings)
+
+JTEKT India (Manual & Electric Power Steering Systems)
+
+Z F Steering Gear (India) (Power & Mechanical Steering for CVs/Tractors)
+
+Munjal Showa (Shock Absorbers & Struts)
+
+Frontier Springs (Coil Springs & Forgings - Primarily Railways & Heavy Duty)
+
+Hindustan Composites (Brake Linings, Clutch Facings & Friction Materials)
+
+9. Engine Components, Pistons, Exhaust & Thermal Management
+SPR Auto Technologies (Shriram Pistons & Rings) (Pistons, Rings, Engine Valves & EV Motors)
+
+Tenneco Clean Air India (Federal-Mogul / Tenneco Group) (Clean Air, Exhaust & Ride Performance)
+
+Federal-Mogul Goetze (India) (Pistons & Piston Rings)
+
+Sharda Motor Industries (Exhaust Systems, Catalytic Converters, BS-VI Emission & Suspension)
+
+Banco Products (India) (Radiators, Charge Air Coolers, Engine Cooling & Gaskets)
+
+Talbros Automotive Components (Gaskets, Heat Shields & Forgings)
+
+Precision Camshafts (Chilled Cast Iron & Machined Camshafts)
+
+10. Sheet Metal, Stampings, Wheels & Fasteners
+Sundram Fasteners (High-Tensile Fasteners, Powder Metal, Water/Oil Pumps)
+
+Belrise Industries (Badve Engineering) (Sheet Metal, Exhaust, Polymer & Chassis Frames)
+
+Steel Strips Wheels (SSWL) (Steel & Alloy Wheels)
+
+Wheels India (Steel Wheels for CVs, Tractors, PVs & Construction Equipment)
+
+Enkei Wheels (India) (Aluminum Alloy Wheels)
+
+L.G. Balakrishnan & Bros (LGB) (Automotive Timing & Drive Roller Chains & Fine Blanked Parts)
+
+Jay Bharat Maruti (Sheet Metal Stampings, Welded Assemblies & Exhausts)
+
+Munjal Auto Industries (Mufflers, Exhaust Systems, Fuel Tanks & Wheel Rims)
+
+Automotive Stampings and Assemblies (ASAL) (Sheet Metal Stampings for Tata Motors)
+
+11. Batteries & Energy Storage
+Exide Industries (Lead-Acid Auto/Industrial Batteries & Lithium-Ion Cell Plant)
+
+Amara Raja Energy & Mobility (Lead-Acid Batteries & New Energy/Li-Ion Pack & Cell Tech)
+
+🏪 PART 3: Aftermarket Distribution, Dealerships, Accessories & Non-Auto Outliers
+Landmark Cars (Luxury & Premium PV Dealership Chain)
+
+Popular Vehicles & Services (Multi-Brand Auto Dealership Network)
+
+India Motor Parts & Accessories (IMPAL) (Auto Spare Parts Aftermarket Distributor)
+
+Studds Accessories (Two-Wheeler Helmets & Riding Gear)
+
+Veljan Denison (Industrial & Mobile Hydraulic Pumps, Valves & Motors)
+
+RNIT AI Solutions (IT/AI Enterprise Solutions — listed in screen, non-auto core)
+
+Megamont (Vrundavan Plantation / Megamont) (Non-core / SME outlier)
