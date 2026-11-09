@@ -1,0 +1,1178 @@
+Sector 1: Aerospace, Defence & Space
+Group 1: Defence OEMs, Platforms & Shipbuilding
+1.1 Aircraft, Helicopters & Missile Systems OEMs
+Hindustan Aeronautics (Hind. Aeronautics)
+
+Bharat Dynamics
+
+1.2 Naval Shipyards & Submarine Builders
+Mazagon Dock Shipbuilders (Mazagon Dock)
+
+Cochin Shipyard
+
+Garden Reach Shipbuilders & Engineers (Garden Reach Sh.)
+
+Swan Defence and Heavy Industries (Swan Defence)
+
+1.3 Military Vehicles, Weapon Systems & Homeland Security
+BEML (also spans Mining & Metro Rolling Stock)
+
+NIBE
+
+Krishna Defence and Allied Industries (Krishna Defence)
+
+JTL Defence
+
+Group 2: Defence Electronics, Radars, Avionics & Space Tech
+2.1 Defence Radars, Electronic Warfare (EW) & Avionics
+Bharat Electronics (Bharat Electron)
+
+Data Patterns (India) (Data Pattern)
+
+Astra Microwave Products (Astra Microwave)
+
+Apollo Micro Systems (Apollo Micro Sys)
+
+DCX Systems
+
+Centum Electronics (Centum Electron)
+
+Avantel
+
+Rossell Techsys
+
+Sigma Advanced Systems (Sigma Advanced System)
+
+Merritronix
+
+Digilogic Systems
+
+2.2 Electro-Optics, Space Payloads, Drones (UAVs) & Simulators
+Paras Defence and Space Technologies (Paras Defence)
+
+Zen Technologies
+
+ideaForge Technology (Ideaforge Tech)
+
+Tonbo Imaging
+*AXISCADES Technologies (AXISCADES Tech.)
+
+Group 3: Precision Aero-Structures, Propulsion & Defence Alloys
+3.1 Superalloys, Titanium Castings & Defence Materials
+Mishra Dhatu Nigam (Mishra Dhatu Nig / MIDHANI)
+
+PTC Industries
+
+Jaykay Enterprises (Jaykay Enter.)
+
+3.2 Aero-Engine Turbine Blades, Nuclear & Space Precision Assemblies
+MTAR Technologies (MTAR Technologie)
+
+Azad Engineering
+
+Unimech Aerospace and Manufacturing (Unimech Aero.)
+
+3.3 Aero-Structures, Hydraulic Systems & Aviation MRO
+Aequs
+
+Dynamatic Technologies (Dynamatic Tech.)
+
+Sika Interplant Systems (Sika Interplant)
+
+Taneja Aerospace and Aviation (Taneja Aerospace)
+
+Apsis Aerocom
+
+Sector 2: Power Generation, T&D & Heavy Electricals
+Group 4: Heavy Power Generation, Boilers & Turbines
+4.1 Utility Boilers, Steam/Gas Turbines & Thermal BTG
+Bharat Heavy Electricals (B H E L)
+
+GE Power India (GE Power)
+
+Triveni Turbine
+
+BGR Energy Systems (BGR Energy Sys.)
+
+4.2 AC Generators, Electric Motors & Rotating Machines
+TD Power Systems
+
+Kirloskar Electric Company (Kirl. Electric)
+
+Group 5: Power & Distribution Transformers, Switchgears & Grid Automation
+5.1 MNC Grid Automation, HV Switchgears & Factory Electrification
+ABB India (A B B)
+
+Siemens
+
+Hitachi Energy India (Hitachi Energy)
+
+Siemens Energy India (Siemens Ener. Ind)
+
+GE Vernova T&D India (GE Vernova T&D)
+
+CG Power & Industrial Solutions (CG Power & Ind)
+
+Schneider Electric Infrastructure (Schneider Elect.)
+
+5.2 Power, Distribution & Specialty Transformers
+Voltamp Transformers (Volt. Transform.)
+
+Transformers & Rectifiers (India) (T R I L)
+
+Shilchar Technologies (Shilchar Tech.)
+
+Bharat Bijlee
+
+Indo Tech Transformers (Indo Tech. Trans.)
+
+Danish Power
+
+Supreme Power Equipment (Supreme Power)
+
+Atlanta Electricals (Atlanta Electric)
+
+Kanohar Electricals (Kanohar Elect.)
+
+Marsons
+
+Raksan Transformers
+
+5.3 Transformer Laminations, Cores, Bushings & HV Coils
+Pitti Engineering (Pitti Engg.)
+
+Yash Highvoltage
+
+Vilas Transcore
+
+Mangal Electrical Industries (Mangal Electrica)
+
+Quality Power Electrical Equipments (Quality Power El)
+
+Group 6: Cables, Conductors & Winding Wires
+6.1 Power, EHV, Control & House Wires & Cables
+Polycab India
+
+KEI Industries
+
+R R Kabel
+
+Finolex Cables
+
+Universal Cables
+
+Dynamic Cables
+
+Paramount Communications (Paramount Comm.)
+
+Diamond Power Infrastructure (Diamond Power)
+
+V-Marc India
+
+Laser Power & Infra (Laser Power)
+
+Delton Cables
+
+6.2 Overhead Transmission Conductors & Transformer Oils
+Apar Industries (Apar Inds.)
+
+Lumino Industries (Lumino Inds)
+
+6.3 Enamelled Winding Wires & Magnet Strips
+Precision Wires India (Prec. Wires (I))
+
+Ram Ratna Wires
+
+KSH International (KSH Internationa)
+
+Vidya Wires
+
+Divine Power Energy (Divine Power)
+
+Group 7: Power T&D EPC, Substations & Transmission Towers
+7.1 Turnkey Power T&D, Substation & Rural Electrification EPC
+Kalpataru Projects International (Kalpataru Proj.)
+
+KEC International
+
+Techno Electric & Engineering Company (Techno Elec. Engg)
+
+Transrail Lighting (Transrail Light)
+
+Bajel Projects
+
+Jyoti Structures
+
+Vikran Engineering (Vikran Engg.)
+
+Viviana Power Tech (Viviana Power)
+
+Sugs Lloyd
+
+Swastika Infra
+
+Vans Electroengineerings
+
+7.2 Transmission Line Towers, Poles & Solar Mounting Structures
+Skipper
+
+Karamtara Engineering (Karamtara Engg.)
+
+Salasar Techno Engineering (Salasar Techno)
+
+KP Green Engineering (KP Green Engg.)
+
+Neueon Towers / Corporation (Neueon Corporation)
+
+Modern Malleables (Modern Malleable)
+
+Group 8: Smart Meters, Power Electronics, Switchgear Components & Insulators
+8.1 Smart Energy Meters, Test Instruments & Low-Voltage Switchgear
+Genus Power Infrastructures (Genus Power)
+
+HPL Electric & Power (HPL Electric)
+
+Salzer Electronics (Salzer Electron.)
+
+Rishabh Instruments (Rishabh Instrum.)
+
+Spectrum Electrical Industries (Spectrum Electr.)
+
+Indo SMC
+
+8.2 Industrial Batteries, Rectifiers, UPS, Panels & Marine Electricals
+HBL Engineering
+
+Hind Rectifiers (Hirect)
+
+Marine Electricals (India) (Marine Electric.)
+
+Schneider Electric President Systems / APW (Schneider APW)
+
+Prostarm Info Systems (Prostarm Info)
+
+MV Electrosystems
+
+Parth Electricals & Engineering (Parth Electrical)
+
+Vivid Electromech
+
+Cospower Engineering (Cospower Engine.)
+
+8.3 High-Voltage Porcelain & Composite Insulators
+Modern Insulators (Modern Insulator)
+
+Hindusthan Urban Infrastructure / Insulators (Hindusthan Insulators &)
+
+W S Industries (India) (W S Inds.)
+
+Sector 3: Renewable Energy, Solar, Wind & CleanTech
+Group 9: Solar PV Modules, Cells, Solar Glass & Wind Turbine OEMs
+9.1 Solar PV Module & Cell Manufacturers
+Waaree Energies
+
+Premier Energies
+
+Vikram Solar
+
+Emmvee Photovoltaic Power (Emmvee Photovol.)
+
+Saatvik Green Energy (Saatvik Green)
+
+Alpex Solar
+
+Websol Energy System (Websol Energy)
+
+Solex Energy
+
+Swelect Energy Systems (Swelect Energy)
+
+Indosolar
+
+9.2 Wind Turbine Generators & Wind Foundry Castings
+Suzlon Energy
+
+Inox Wind
+
+Synergy Green Industries (Synergy Green)
+
+9.3 Solar Glass Manufacturers
+Borosil Renewables (Borosil Renew.)
+
+Group 10: Renewable EPC, Solar Pumps, Bioenergy & EV Charging
+10.1 Turnkey Solar EPC & C&I Renewable Developers
+Sterling and Wilson Renewable Energy (Sterling & Wils.)
+
+Waaree Renewable Technologies (Waaree Renewab.)
+
+Oriana Power (Oriana Power Ltd)
+
+Solarworld Energy Solutions (Solarworld Ene.)
+
+Ravindra Energy
+
+Advait Energy Transitions (Advait Energy)
+
+Aerpace Industries (Aerpace Indus)
+
+10.2 Solar & Agricultural Water Pumping Systems
+Shakti Pumps (India) (Shakti Pumps)
+
+Oswal Pumps
+
+GK Energy
+
+10.3 Biofuels/Ethanol Plants, Solar Inverters & EV Chargers
+Praj Industries
+
+Exicom Tele-Systems (Exicom Tele-Sys.)
+
+Fujiyama Power Systems (Fujiyama Power)
+
+Servotech Renewable Power System (Servotech Renew)
+
+Sector 4: Infrastructure, EPC & Civil Construction
+Group 11: Diversified Engineering Conglomerates & Heavy Civil EPC
+11.1 Mega Multi-Vertical EPC & Turnkey Infrastructure
+Larsen & Toubro
+
+NCC
+
+Afcons Infrastructure (Afcons Infrastr.)
+
+Cemindia Projects (Cemindia Project / ITD Cementation)
+
+Hindustan Construction Company (Hind. Construct.)
+
+Simplex Infrastructures (Simplex Infra)
+
+Gayatri Projects
+
+IL&FS Engineering and Construction Company (IL&FS Engg.)
+
+Group 12: Roads, Highways, Bridges, Tunnels & Infra InvITs
+12.1 Roads, Highways, Tunnels & Urban Transit EPC/HAM/BOT
+IRB Infrastructure Developers (IRB Infra. Devl.)
+
+G R Infraprojects (G R Infraproject)
+
+PNC Infratech
+
+Dilip Buildcon
+
+H.G. Infra Engineering (H.G. Infra Engg.)
+
+KNR Constructions (KNR Construct.)
+
+Ashoka Buildcon
+
+J. Kumar Infraprojects (J Kumar Infra)
+
+Ceigall India
+
+Welspun Enterprises (Welspun Enterp)
+
+GPT Infraprojects (GPT Infraproject)
+
+SRM Contractors
+
+GHV Infra Projects (GHV Infra)
+
+Brahmaputra Infrastructure (Brahmaputra Inf.)
+
+Supreme Infrastructure India (Supreme Infra.)
+
+12.2 Yielding Road Infrastructure Investment Trusts (InvITs)
+Shrem InvIT
+
+Nxt-Infra Trust
+
+Capital Infra Trust (Capital Infra)
+
+Group 13: Buildings, Industrial Construction, PEB & Engineering Consultancies
+13.1 Urban Redevelopment, Commercial, Institutional & Factory Construction
+NBCC (India) (NBCC)
+
+Ahluwalia Contracts (India) (Ahluwalia Contr.)
+
+Capacit'e Infraprojects (Capacit'e Infra.)
+
+PSP Projects
+
+B. L. Kashyap and Sons (B.L.Kashyap)
+
+Garuda Construction and Engineering (Garuda Cons)
+
+Sathlokhar Synergys E&C Global (Sathlokhar Sys.)
+
+Goel Construction Company (Goel Construct.)
+
+Univastu India
+
+India Homes
+
+13.2 Pre-Engineered Buildings (PEB) & Structural Steel Systems
+Interarch Building Products (Interarch Build.)
+
+Pennar Industries (Pennar Industrie)
+
+EPack Prefab Technologies (EPack PrefabTech)
+
+M & B Engineering (M & B Engineer.)
+
+13.3 Hydrocarbon, Process, Mining & Structural Engineering Consultancies
+Engineers India
+
+Central Mine Planning & Design Institute (Central Mine Pla)
+
+Mold-Tek Technologies (Mold-Tek Technol)
+
+SEPC
+
+Group 14: Water, Hydro, Power Plant O&M & Oil/Gas Pipeline EPC
+14.1 Hydroelectric, Dam & Hydromechanical Gate EPC
+Patel Engineering (Patel Engineerin)
+
+Om Infra
+
+14.2 Water Supply, Irrigation, Sewage & Enviro Infrastructure EPC
+Ramky Infrastructure (Ramky Infra)
+
+Indian Hume Pipe Company (Indian Hume Pipe)
+
+SPML Infra
+
+LCC Projects
+
+14.3 Power Plant Balance-of-Plant (BoP), O&M & Oil/Gas Pipelines
+Power Mech Projects (Power Mech Proj.)
+
+Likhitha Infrastructure (Likhitha Infra.)
+
+Artson Engineering (Artson)
+
+Sector 5: Railways, Wagons & Rolling Stock
+Group 15: Railway Rolling Stock, Track EPC & Rail Components
+15.1 Railway Turnkey EPC, Track Linking & Rail Consultancy
+Rail Vikas Nigam (Rail Vikas)
+
+Ircon International (Ircon Intl.)
+
+RITES
+
+A B Infrabuild
+
+15.2 Freight Wagons, Passenger Coaches & Metro Rolling Stock
+Titagarh Rail Systems (Titagarh Rail)
+
+Jupiter Wagons
+
+Texmaco Rail & Engineering (Texmaco Rail)
+
+15.3 Rail Components, Cold-Formed Sections, Castings, Brakes & Signalling
+Oriental Rail Infrastructure (Oriental Rail)
+
+Cosmic CRF
+
+Concord Control Systems (Concord Control)
+
+Quadrant Future Tek (Quadrant Future)
+
+Airfloa Rail Technology (Airfloa Rail)
+
+Neetu Yoshi
+
+Integra Engineering India (Integra Engg.)
+
+Sector 6: Industrial Machinery, Factory Automation & Capital Goods
+Group 16: Process Plant, Thermal, Chemical & Cryogenic Equipment
+16.1 Industrial Heating, Boilers, Heavy Fabrication & Sugar/Cement Plants
+Thermax
+
+ISGEC Heavy Engineering (ISGEC Heavy)
+
+Lloyds Engineering Works (Lloyds Engineeri)
+
+Walchandnagar Industries (Walchan. Inds.)
+
+16.2 Process Heat Exchangers, Fired Heaters, Dryers & Pressure Vessels
+The Anup Engineering (The Anup Enginee)
+
+JNK India (JNK)
+
+Kilburn Engineering (Kilburn Engg.)
+
+KRN Heat Exchanger and Refrigeration (KRN Heat Exchan)
+
+Mazda
+
+16.3 Glass-Lined Reactors, Agitators & Chemical Process Equipment
+GMM Pfaudler
+
+HLE Glascoat
+
+Standard Engineering Technology (Standard Glass Lining)
+
+16.4 Cryogenic Storage Tanks, High-Pressure Gas Cylinders & Fuel Dispensers
+Inox India
+
+Everest Kanto Cylinder (Everest Kanto)
+
+Cryogenic OGS
+
+Tankup Engineers (Tankup Engi.)
+
+16.5 Process Piping Prefabrication, Cold Rolling Mills & Food Processing Machinery
+DEE Development Engineers (DEE Development)
+
+John Cockerill India (John Cockerill)
+
+Axtel Industries
+
+Bajaj Steel Industries (Bajaj Steel Inds)
+
+16.6 Commercial Refrigeration, Marine HVAC & Process Instrumentation
+Honeywell Automation India (Honeywell Auto)
+
+Ice Make Refrigeration (ICE Make Refrig.)
+
+Shree Refrigerations (Shree Refrigerat)
+
+Tempsens Instruments
+
+Group 17: Pumps, Compressors, Hydraulics, Valves & Fluid Control
+17.1 Industrial, Process, Slurry & Municipal Pumps
+Kirloskar Brothers (Kirl. Brothers)
+
+KSB
+
+WPIL
+
+Roto Pumps
+
+17.2 Air & Gas Compressors
+Elgi Equipments
+
+Ingersoll-Rand (India) (Ingersoll-Rand)
+
+Kirloskar Pneumatic Company (Kirl. Pneumatic)
+
+17.3 Mechanical Seals, Water Control Gates, Hydraulics & Fire Suppression
+Sealmatic India
+
+Jash Engineering
+
+CFF Fluid Control (CFF Fluid)
+
+Yuken India
+
+Hy-Tech Engineers (Hy-Tech Engineer)
+
+Aeroflex Industries (Aeroflex)
+
+HD Fire Protect
+
+Group 18: Bearings, Gears, Material Handling, Construction & Mining Equipment
+18.1 Industrial & Automotive Bearings
+Schaeffler / SKF India
+
+SKF India Industrial (SKF India Indus.)
+
+Timken India
+
+Harsha Engineers International (Harsha Engg Intl)
+
+Satani Bearings
+
+18.2 Industrial Gearboxes, Power Transmission & Belts
+Elecon Engineering Company (Elecon Engg. Co)
+
+Bonfiglioli Transmissions (Bonfiglioli Tran)
+
+Shanthi Gears
+
+Pix Transmissions (Pix Transmission)
+
+Belding India
+
+18.3 Cranes, Concrete Equipment, Elevators & Material Handling
+Action Construction Equipment (Action Const. Eq.)
+
+Ajax Engineering
+
+TIL
+
+Indef Manufacturing (Indef Manufactur)
+
+L. T. Elevator
+
+McNally Bharat Engineering Company (McNally Bharat)
+
+18.4 Mining Wear Parts, Mill Liners, Crushers & Conveyor Belting
+AIA Engineering
+
+Tega Industries (Tega Inds.)
+
+Thejo Engineering (Thejo Engg.)
+
+Eimco Elecon (India) (Eimco Elecon(I))
+
+International Conveyors (Intl. Conveyors)
+
+Taurian MPS
+
+Group 19: Machine Tools, CNC, Cutting Tools, Abrasives & Refractories
+19.1 CNC Machines, Textile Machinery, Foundry & Robotic Automation
+LMW (Lakshmi Machine Works)
+
+Jyoti CNC Automation (Jyoti CNC Auto.)
+
+Macpower CNC Machines (Macpower CNC)
+
+Lokesh Machines (Lokesh Mach.)
+
+HMT
+
+DISA India (Disa India)
+
+Patil Automation
+
+Technocrats Plasma Systems (Technocrats Plasma)
+
+19.2 Plastics Extrusion, Converting & Flexible Packaging Machinery
+Kabra Extrusion Technik (Kabra Extrusion)
+
+Windsor Machines
+
+Rajoo Engineers
+
+Lohia Corp
+
+Mamata Machinery
+
+19.3 Abrasives, Super-Abrasives, Hardmetals & Precision Cutting Tools
+Grindwell Norton
+
+Carborundum Universal (Carborundum Uni.)
+
+Kennametal India
+
+Wendt (India) (Wendt India)
+
+Forbes Precision Tools and Machine Parts (Forbes Precision)
+
+Emkay Taps and Cutting Tools (Emkay Tools)
+
+Sunita Tools (Sunita Tools Ltd)
+
+TIPCO Engineering
+
+19.4 Refractories, Graphite Electrodes, Ramming Mass & Crucibles
+Graphite India
+
+HEG Advanced Materials
+
+RHI Magnesita India (RHI Magnesita)
+
+Vesuvius India
+
+IFGL Refractories (IFGL Refractori.)
+
+Raghav Productivity Enhancers (Raghav Product.)
+
+Monolithisch India (Monolithisch Ind)
+
+Foseco India / Morganite Crucible (India) (Foseco Crucible (India))
+
+19.5 Welding Consumables, Electrodes & Equipment
+ESAB India (Esab India)
+
+Ador Welding
+
+Diffusion Engineers (Diffusion Eng)
+
+GEE
+
+Sector 7: Metals, Tubes & Pipes, Forgings & Castings
+Group 20: Steel Tubes, Pipes & Hollow Sections
+20.1 Structural Steel Tubes, ERW & GI Pipes
+APL Apollo Tubes
+
+Surya Roshni
+
+JTL Industries
+
+Hi-Tech Pipes
+
+Hariom Pipe Industries (Hariom Pipe)
+
+Goodluck India
+
+Sambhv Steel Tubes (Sambhv Steel)
+
+Rama Steel Tubes
+
+Jindal Supreme (India) (Jindal Supreme)
+
+20.2 Large-Diameter SAW Pipes, Seamless Tubes & Ductile Iron (DI) Pipes
+Welspun Corp
+
+Jindal Saw
+
+Maharashtra Seamless (Mah. Seamless)
+
+Man Industries (India) (Man Industries)
+
+Electrosteel Castings (Electrost. Cast.)
+
+Gandhi Special Tubes (Gandhi Spl. Tube)
+
+20.3 Stainless Steel Pipes, Tubes & Precision Sheets
+Ratnamani Metals & Tubes (Ratnamani Metals)
+
+Venus Pipes & Tubes (Venus Pipes)
+
+Welspun Specialty Solutions (Welspun Special.)
+
+Ratnaveer Precision Engineering (Ratnaveer Precis)
+
+Scoda Tubes
+
+Group 21: Integrated Steel, Specialty Alloys, Sponge Iron & Wire Ropes
+21.1 Integrated Steel, Sponge Iron, Pellet, TMT Bars & Structural Steel
+Shyam Metalics and Energy (Shyam Metalics)
+
+Godawari Power & Ispat (Godawari Power)
+
+Gallantt Ispat (Gallantt Ispat L)
+
+Jayaswal Neco Industries (Jayaswal Neco)
+
+MSP Steel & Power (MSP Steel & Pow.)
+
+Steel Exchange India (Steel Exchange)
+
+Beekay Steel Industries (Beekay Steel Ind)
+
+Kamdhenu
+
+A-One Steels India (A-One Steels)
+
+Electrotherm (India) (Electrotherm(I))
+
+Mahamaya Steel Industries (Mahamaya Steel)
+
+Rhetan TMT (Rhetan TMT Ltd)
+
+German Green Steel and Power (German Green Ste)
+
+21.2 Alloy Steel, Special Steel & Stainless Steel Bars/Rods
+Kalyani Steels
+
+Mukand
+
+Sunflag Iron & Steel Company (Sunflag Iron)
+
+Vardhman Special Steels (Vardhman Special)
+
+Rajputana Stainless (Rajputana Stain.)
+
+Panchmahal Steel
+
+21.3 Steel Wire Ropes, Industrial Wires, Coated Metals & Processing
+Usha Martin
+
+Bansal Wire Industries (Bansal Wire Inds)
+
+Bharat Wire Ropes (Bharat Wire)
+
+BMW Industries
+
+Manaksia Coated Metals & Industries (Manaksia Coated)
+
+Systematic Industries (Systematic Inds.)
+
+Anawil Wire
+
+Group 22: Industrial Forgings, Castings, Contract Manufacturing & Recycling
+22.1 Heavy & Precision Forgings, Metal Injection Molding (MIM) & Springs
+Indo-MIM
+
+Happy Forgings
+
+Balu Forge Industries (Balu Forge)
+
+Gala Precision Engineering (Gala Precis. Eng)
+
+Tirupati Forge
+
+Amic Forging
+
+Omnitech Engineering (Omnitech Engg.)
+
+Millworks Technologies
+
+Axentra Corp
+
+22.2 Ferrous, Alloy, Investment & Ductile Iron Industrial Castings
+Steelcast
+
+Nelcast
+
+Investment & Precision Castings (Inv.& Prec.Cast.)
+
+Magna Electro Castings (Magna Electrocas)
+
+Uni Abex Alloy Products (Uni Abex Alloy)
+
+Kalyani Cast-Tech (Kalyani Cast-Tec)
+
+Simplex Castings
+
+Captain Technocast (Captain Techno.)
+
+Behari Lal Engineering (Behari Lal Engg.)
+
+22.3 Digital B2B Contract Manufacturing, Drum Closures & Pipe Hangers
+Zetwerk Manufacturing
+
+Technocraft Industries (India) (Technocraf. Inds.)
+
+Tembo Global Industries (Tembo Global)
+
+Aeroflex Enterprises / Sat Industries (Aeroflex Enter.)
+
+22.4 Non-Ferrous Metal (Aluminium & Copper) Recycling
+CMR Green Technologies (CMR Green Tech.)
+
+Baheti Recycling Industries (Baheti Recycling)
+
+Sunlite Recycling Industries (Sunlite Recycli.)
+
+Sector 8: Electronics Manufacturing (EMS), Semicon & Tech Hardware
+Group 23: EMS, Power Semiconductors, Bimetals & Surveillance Systems
+23.1 Turnkey Electronics Manufacturing Services (EMS) & PCBAs
+Kaynes Technology India (Kaynes Tech)
+
+Syrma SGS Technology (Syrma SGS Tech.)
+
+Cyient DLM
+
+Avalon Technologies (Avalon Tech)
+
+Vinyas Innovative Technologies (Vinyas Innovativ)
+
+Aimtron Electronics (Aimtron)
+
+Sahasra Electronic Solutions (Sahasra Electro.)
+
+Saakshi Medtech and Panels (Saakshi Medtech)
+
+23.2 Power Semiconductors, Shunt Resistors, Bimetals & Electrical Contacts
+Shivalik Bimetal Controls (Shivalik Bimetal)
+
+Permanent Magnets (Permanent Magnet)
+
+Modison
+
+RIR Power Electronics (RIR Power Electr)
+
+23.3 Video Surveillance (CCTV), LED Displays, AV Integration & Auto Telematics
+Aditya Infotech
+
+Prizor Viztech
+
+MIC Electronics
+
+Purple Wave Infocom (Purple Wave Info)
+
+Danlaw Technologies India (Danlaw Tech.)
+
+Sector 9: Automobiles, Commercial Vehicles, Farm Equipment & Engines
+Group 24: CV/PV OEMs, Farm Equipment, Industrial Engines & Auto Ancillaries
+24.1 Commercial Vehicles, Passenger Vehicles & 3-Wheelers
+Tata Motors
+
+Ashok Leyland
+
+SML Isuzu / SML Mahindra
+
+Atul Auto
+
+24.2 Tractors, Tillers & Farm Mechanization Equipment
+Escorts Kubota
+
+Swaraj Engines
+
+VST Tillers Tractors (VST Till. Tract.)
+
+Indo Farm Equipment (Indo Farm Equip.)
+
+24.3 Diesel Engines, Gensets & Portable Power Products
+Cummins India
+
+Kirloskar Oil Engines (Kirloskar Oil)
+
+Powerica (Powerica Ltd)
+
+Greaves Cotton
+
+Honda India Power Products (Honda India)
+
+Kirloskar Industries (Kirloskar Indus.)
+
+24.4 Auto HVAC, Diversified Engineering & Industrial Safety Gear
+Subros
+
+Raymond (Precision Engineering & Aerospace/Auto Tools business)
+
+Mallcom (India)
+
+Sector 10: Plastics, Piping, Packaging & Specialty Polymers
+Group 25: Plastic Pipes, Flexible/Rigid Packaging, Glass & Technical Polymers
+25.1 PVC/CPVC Plumbing Pipes, Fittings, Profiles & Micro-Irrigation
+Supreme Industries (Supreme Inds.)
+
+Astral
+
+Finolex Industries (Finolex Inds.)
+
+Prince Pipes and Fittings (Prince Pipes)
+
+Jain Irrigation Systems (Jain Irrigation)
+
+Apollo Pipes
+
+Prakash Pipes
+
+R M Drip and Sprinklers Systems (R M Drip & Sprin)
+
+Dhabriya Polywood (Dhabriya Poly.)
+
+25.2 Specialty Polymer Films, BOPP/BOPET & Dielectric Capacitor Films
+Garware Hi-Tech Films (Garware Hi Tech)
+
+Uflex
+
+Polyplex Corporation (Polyplex Corpn)
+
+Jindal Poly Films (Jindal Poly Film)
+
+Cosmo First
+
+XPRO India
+
+Ester Industries
+
+Nahar Poly Films (Nahar Poly)
+
+Dhunseri Ventures (Dhunseri Vent.)
+
+Premier Polyfilm
+
+Arrow Greentech
+
+25.3 Industrial Drums, Rigid Plastic Packaging, Laminate Tubes & Cartons
+Time Technoplast
+
+EPL
+
+Mold-Tek Packaging (Mold-Tek Pack.)
+
+TCPL Packaging
+
+Huhtamaki India
+
+Hitech Corporation (Hitech Corp.)
+
+TPL Plastech
+
+Pyramid Technoplast (Pyramid Technopl)
+
+Manika Plastech
+
+Oricon Enterprises (Oricon Enterpris)
+
+Shree Rama Multi-Tech (Sh. Rama Multi.)
+
+Subam Papers
+
+25.4 FIBC Bulk Bags, Woven Sacks & Protective Packaging
+Shish Industries
+
+Commercial Syn Bags (Commerl. Synbags)
+
+Shree Jagdamba Polymers (Sh. Jagdamba Pol)
+
+Kanpur Plastipack (Kanpur Plastipa.)
+
+Knack Packaging
+
+Jai Corp
+
+25.5 Container Glass, Lab Scientific Glass & Architectural Glass
+AGI Greenpac
+
+Borosil Scientific (Borosil Scienti.)
+
+Haldyn Glass
+
+Sejal Glass
+
+25.6 Compounded Thermoplastics, Synthetic Latex, Reclaimed Rubber & Chemicals
+Kingfa Science & Technology (India) (Kingfa Science)
+
+Apcotex Industries (Apcotex Industri)
+
+Tinna Rubber and Infrastructure (Tinna Rubber)
+
+GRP
+
+Kanoria Chemicals & Industries (Kanoria Chem.)
+
+
+
+
+The Upgraded Institutional Master Prompt (Copy & Paste Ready)
+Role & Objective
+Act as a Managing Director and Senior Institutional Buy-Side Industrials & Capital Goods Analyst specializing in Indian Equities. Your objective is to conduct an exhaustive, forensic-grade sector and company-level analysis across the Indian Industrial & Infrastructure Universe, structured into a 15-Part Master Classification Architecture.
+Execution Protocol (CRITICAL)
+Granular Taxonomy First: For the requested Part, first map out the Sector -> Sub-Sector -> Micro-Vertical / Value-Chain Niche hierarchy before analyzing individual companies.
+
+Sequential Part-by-Part Generation: Because of the forensic depth required across 22 distinct institutional parameters, generate one Part (or one major Sub-Sector) per response to ensure zero data truncation and maximum analytical rigor.
+
+Forensic Rigor Over Generic Summaries: Cite specific numbers, historical trajectories (10Y / 5Y / 1Y / TTM), balance sheet ratios, and concrete operational facts rather than generic qualitative statements.
+
+Master Classification Architecture (15 Parts)
+Part 1: Aerospace, Defence & Strategic Electronics (Core Platforms, Defence Shipyards, Radars/EW/Avionics, Missiles/Ammunition, Offset & Tier-1 Sub-Systems)
+
+Part 2: Power Generation, Transmission & Distribution (T&D) Equipment & EPC (Boilers/Turbines, HV/EHV Transformers, Switchgears, GIS/AIS Substations, HVDC & T&D EPC)
+
+Part 3: Wires, Cables, Conductors & Power Distribution Hardware (EHV/HV/LV Power Cables, HTLS Conductors, Elastomeric/Specialty Cables, Winding Wires, FMEG)
+
+Part 4: Solar, Wind, Clean Energy & Energy Transition Equipment (Solar Cells/Modules, Wind Turbines & Castings, BESS, Green Hydrogen Electrolyzers, Renewable Balance of System & EPC)
+
+Part 5: Industrial Automation, Process Control & Factory Digitization (DCS/PLC/SCADA, Industrial Robotics, Motion Control, Smart Metering, Sensors & Instrumentation)
+
+Part 6: Heavy Capital Goods & Engineered Thermal/Fluid Systems (Boilers, Turbines, Compressors, Industrial Pumps, Valves, Heat Exchangers, Material Handling, HVAC & Water Treatment)
+
+Part 7: Bearings, Precision Motion & Process Machinery (Ball/Roller/Tapered Bearings, Slewing Rings, CNC Machines, Textile/Food/Packaging/Chemical Process Machinery)
+
+Part 8: Metals, Refractories, Tubes/Pipes, Forgings, Castings & Industrial Fasteners (Flow Control Refractories, Seamless/SAW/DI/ERW Pipes, Auto & Non-Auto Closed/Open Die Forgings, Investment/Sand Castings, High-Tensile Fasteners)
+
+Part 9: Commercial Vehicles (CV), Off-Highway Equipment & Powertrains (MHCV/LCV OEMs, Construction & Mining Equipment, Cranes, Material Handling, Axles, Transmissions)
+
+Part 10: Niche & Engineered Consumables / Specialty Industrials (Industrial Abrasives, Industrial Ceramics, Welding Consumables, Wire Ropes, Filtration, Diamond Tools)
+
+Part 11: Railways, Metro Rolling Stock & Signalling Ecosystem (Freight Wagons, Passenger Coaches/Vande Bharat Propulsion, Kavach/Signalling, Track Work, Brakes & Couplers)
+
+Part 12: Circular Economy, Resource Recovery & Industrial Recycling (Lead-Acid/Li-Ion Battery Recycling, E-Waste, Ferrous/Non-Ferrous Metal Recycling, Tyre Pyrolysis, PET/Polymer Recycling)
+
+Part 13: Industrial Packaging, Technical Textiles & Engineered Polymers (FIBC/Bulk Industrial Bags, Rigid Drums/IBC, Protective Packaging, Fluoro-polymers/Composites, Geotech Textiles)
+
+Part 14: Heavy Civil Infrastructure, Urban Transit, Water & Road EPC / InvITs (Highways/Tunnels/Bridges, Hydro & Nuclear Civil, Marine/Port EPC, Water/Wastewater EPC, Power/Road InvITs)
+
+Part 15: Electronic Manufacturing Services (EMS), Semiconductor Supply Chain & Data Center/Cleanroom Infrastructure (Box-Build/PCBA EMS, OSAT/Outsourced Semi Ancillaries, Cleanroom EPC, Liquid/Precision Cooling)
+
+Required 22-Column Analytical Framework (Presented across 3 Modular Tables per Sub-Sector)
+Matrix A: Business Architecture, Order Book Forensics & Competitive Moat
+Company Name & Ticker
+
+Revenue Mix & Segment Contribution (%): Breakdown by product/service vertical and Domestic vs. Export split (%).
+
+Revenue Nature & Economic Classification: Classify each segment as Structural Compounder, Deep Cyclical, Commodity, or Temporary/Short-Cycle Tailwind + split between Project/One-Time Revenue vs. Annuity/O&M/Aftermarket Consumable (%).
+
+Order Book & Revenue Visibility Forensics:
+Order Book Growth: 1Y, 3Y, and 5Y CAGR + Current Absolute Order Book (₹ Cr).
+
+Book-to-Bill Ratio: Current Order Book / TTM Revenue (indicating years of visibility).
+
+Contract Structure: % of Fixed-Price Contracts vs. Price-Variation Clause (PVC / Raw Material Index-Linked) contracts.
+
+Execution Track Record & Delivery Discipline: Historical timeliness of project completion, instances of Liquidated Damages (LD) or cost overruns, and percentage of slow-moving/stalled orders in the backlog.
+
+Competitive Moat, Customer Stickiness & Replacement Risk: Proprietary technology/IP, customer qualification lead times (e.g., 3–7 year OEM/nuclear/defence approvals), switching costs, and realistic probability of technological obsolescence or Chinese/low-cost substitution.
+
+Key Operational & Macro Risks: Customer/geography concentration, tender dependency, raw material volatility, and regulatory/policy risks.
+
+Matrix B: Forensic Financials, Working Capital Cycle & Capital Efficiency (10Y / 5Y / 1Y / Current)
+Gross Margin (%) Trajectory: 10Y Avg | 5Y Avg | 1Y | Current (TTM) — Assess whether margins are structurally "Owned" (pricing power) or temporarily "Rented" (supply shortage).
+
+EBITDA Margin (%) Trajectory: 10Y Avg | 5Y Avg | 1Y | Current (TTM) — Highlight operating leverage inflection points.
+
+ROCE & RoIC (%) Trajectory: 10Y Avg | 5Y Avg | 1Y | Current (TTM).
+
+Capex Cycle & Suppressed ROCE Diagnostics:
+Capex Timeline: Commissioning schedule of ongoing Greenfield/Brownfield capex and Peak Revenue Potential (Asset Turnover x).
+
+ROCE Suppression Test: Is current ROCE artificially depressed due to high Capital Work-in-Progress (CWIP) or under-utilized new capacity? Quantify expected steady-state ROCE post-ramp-up.
+
+Working Capital Cycle (NWC Days) Trajectory: 10Y Avg | 5Y Avg | 1Y | Current (Net Working Capital Days = Receivable + Inventory - Payable Days).
+
+Receivable Days & Retention Money Forensics: 10Y Avg | 5Y Avg | 1Y | Current — Explicitly separate regular trade receivables from Unbilled Revenue (Contract Assets) and long-term Retention Money stuck with PSU/EPC clients.
+
+Inventory Days & Work-in-Progress (WIP) Trend: 10Y Avg | 5Y Avg | 1Y | Current — Differentiate between raw material stocking for confirmed orders vs. slow-moving inventory.
+
+Operating Cash Flow (OCF) Trend & Cash Conversion:
+OCF Trajectory: 10Y | 5Y | 1Y | Current (₹ Cr).
+
+3-Year Cumulative CFO / 3-Year Cumulative EBITDA Ratio (%): (Benchmark: >70% for asset-light/machinery; flag <50% for heavy working-capital leakage).
+
+Matrix C: Governance Forensics, Concall Guidance, Optionality & Valuation
+Management Quality (Integrity, Capital Allocation & Execution Energy): Promoter skin-in-the-game, track record of counter-cyclical capital allocation, R&D intensity (% of sales), and second-line professional leadership depth.
+
+Forensic & Governance Red Flags: Related-party transactions (RPTs), promoter pledges, contingent liabilities/bank guarantees (% of net worth), auditor resignations/qualifications, or history of equity dilution at poor valuations.
+
+Concall Guidance vs. Delivery (Last 3 Quarters): Summarize specific revenue, margin, order inflow, and capex guidance from the last 2–3 earnings calls and evaluate management's historical "Say-to-Do" ratio (Conservative vs. Over-promising).
+
+Embedded Optionality & Adjacent TAM Expansion: New product adjacencies, export market breakthroughs ("China+1" / Europe OEM outsourcing), technology JVs, or backward integration into critical components.
+
+Fair Valuation Matrix & Cycle-Adjusted Multiples: Current vs. 5Y/10Y Historical Median across P/E, EV/EBITDA, P/B, and P/S, along with an assessment of implied valuation relative to through-cycle earnings power and order book visibility.
+
+🔍 2. High-Value Institutional Parameters We Added (And Why They Matter)
+For Indian Industrials and EPC companies, standard P&L analysis often misses balance sheet traps. Here are the high-impact forensic metrics now built into your prompt and why you should track them:
+
+ Parameter Category	Specific Metric Added	Why Institutional Investors Track It in Indian Industrials
+Order Book Quality	Fixed-Price vs. PVC Split (%)	When steel, copper, or aluminium spikes, companies with >50% fixed-price orders suffer severe gross margin compression, while PVC (Price Variation Clause) players pass costs through.
+Order Book Quality	Order Inflow Growth vs. Backlog Growth	High backlog growth can sometimes mask execution delays (denominator effect). Tracking fresh Order Inflows alongside Order Book/Bill Ratio prevents falling into stalled-project traps.
+Revenue Quality	Aftermarket / Spares & Service Mix (%)	In Capital Goods (Pumps, Compressors, Bearings, Turbines), initial equipment sales carry 12–15% margins, whereas aftermarket spares/O&M carry 30–45% annuity margins and smooth out cyclicality.
+Working Capital Forensics	Unbilled Revenue (Contract Assets) & Retention Money	Many EPC and Defence companies report low "Trade Receivable Days" on paper by shifting delayed milestone payments into "Other Financial Assets / Unbilled Revenue." Combining Receivable Days + Contract Assets gives the true cash collection cycle.
+Working Capital Forensics	Customer Advances (% of Order Book)	Companies with strong bargaining power (e.g., niche turbine, transformer, or process equipment makers) receive 15–30% interest-free customer advances, funding their working capital and boosting ROCE to 35%+.
+Operating Leverage	Fixed Asset Turnover (Gross Block Turns) & Capacity Utilization (%)	Tells you how much incremental revenue a company can generate without raising fresh debt or equity, and whether margins are at peak-cycle utilization (85%+) or mid-cycle (60%).
+Off-Balance Sheet Risk	Non-Fund Based Limits (Bank Guarantees / LCs as % of Net Worth)	Industrial & EPC firms rely heavily on Bank Guarantees (BGs) for bidding and performance warranties. If BG utilization nears 100%, order booking stalls even if demand is booming.
+
+ ⚠️ 3. Watch Out For: Common Pitfalls When Running This Prompt
+Never ask an AI to generate all 14–15 parts in a single response: Even with the largest context windows, asking for 15 sectors × 10 companies × 20 columns = 3,000+ data cells in one turn will cause the model to summarize superficially. Always run it Part-by-Part (e.g., "Execute Part 1: Aerospace & Defence using the Master Prompt").
+
+Cyclical Peak-Multiple Trap (Mental Model Check): In deep cyclicals (Part 2 T&D, Part 8 Steel/Pipes, Part 9 CVs), a low P/E or EV/EBITDA often signals peak cycle margins, whereas a high P/E during a capex downturn may signal depressed trough earnings. The prompt's 10-year vs. current margin comparison protects you against paying peak multiples on peak margins.
+
+
+At a time do analysis of one segment and after doing that ask me for next segment . this way i will do for 10 segment analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
