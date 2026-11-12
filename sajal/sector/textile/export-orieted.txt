@@ -69,11 +69,13 @@ Required Analytical Structure & Deliverables:
 5. Strategic Moats, Key Risks & Red Flags
 • Identify sustainable competitive advantages (patents, ESG certifications, design studios, scale, speed-to-market).
 • Highlight company-specific red flags: high leverage (e.g., Himatsingka's historical debt profile), execution risks in greenfield expansions (e.g., Kitex's Telangana capex), or margin compression in asset-light models (e.g., PDS).
+• Global Competitor Benchmarking comparing India's labor costs, lead times, and tariff rates against Bangladesh, Vietnam, and China
 6. Valuation & Institutional Positioning
 • Provide current valuation multiples (Trailing P/E, Forward P/E, EV/EBITDA, Price-to-Book) relative to their 5-year historical medians.
 • Conclude with an investment matrix ranking the companies across three institutional buckets: Compounders (High ROCE/Low Debt), Turnaround/De-leveraging Plays, and Tactical Margin Expansion Plays.
+• Stock Comparison Charts comparing revenue growth, EBITDA margins, and export share of top listed players
 Formatting & Rigor Rules:
 • Use comparative tables wherever possible for side-by-side benchmarking.
 • Explicitly distinguish between historical reported numbers and forward management guidance.
-• Cite specific fiscal years (e.g., FY24, FY25, FY26) and clearly flag any company where public financial data is restricted or unavailable.
+• Cite specific fiscal years (e.g., FY24, FY25, FY26,FY27) and clearly flag any company where public financial data is restricted or unavailable.
 
