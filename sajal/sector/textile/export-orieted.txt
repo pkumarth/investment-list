@@ -62,6 +62,7 @@ Required Analytical Structure & Deliverables:
 • Present a comparative markdown table covering: Revenue CAGR, Gross Margin %, EBITDA Margin %, PAT Margin %, ROE %, ROCE %, Net Debt-to-EBITDA, and Net Debt-to-Equity.
 • Working Capital Cycle: Break down Receivable Days, Inventory Days, Payable Days, and the Cash Conversion Cycle (CCC) to evaluate balance sheet strain.
 • Free Cash Flow (FCF) Generation: Compare Operating Cash Flow (OCF) to EBITDA conversion and recent CapEx intensity.
+• ROCE number and why it is elvated level or depressed level . basec on capital return book analyse in future roce will go in upward or downward and also specify reason 
 4. Macro Tailwinds, Trade Agreements & Structural Catalysts
 • Analyze the impact of the "China + 1" sourcing shift and Bangladesh political/supply-chain disruptions on order book visibility.
 • Quantify potential margin or volume upside from Free Trade Agreements (UK-India FTA, EU-India FTA) and US tariff structures.
