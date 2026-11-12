@@ -1,18 +1,60 @@
 3. BALANCED MIX: EXPORT & DOMESTIC (Around 40-60% / 50-50%)
-K P R Mill Ltd
-Vardhman Textiles
-Arvind Ltd
-Trident
-Garware Technical Fibres
-Kusumgar
-Nitin Spinners
-Sportking India
-AYM Syntex
-Ambika Cotton Mills
-Precot
-Sarla Performance Fibers
-Sonaselection India
-Orbit Exports
+Primary Revenue Segments
+Yarn & Spinning
+• Vardhman Textiles Ltd
+• Nitin Spinners Ltd
+• Sportking India Ltd
+• Ambika Cotton Mills Ltd
+• Precot Ltd
+Apparel, Garments & Fabrics (Traditional Textiles)
+• K.P.R. Mill Ltd
+• Arvind Ltd
+• Sonaselection India Ltd (Listed in September 2026)
+• Orbit Exports Ltd
+Home Textiles
+• Trident Ltd
+Technical Textiles, Engineered Fabrics & Specialty Fibres
+• Garware Technical Fibres Ltd
+• Kusumgar Ltd (Formerly Kusumgar Corporates; listed in July 2026)
+• AYM Syntex Ltd
+• Sarla Performance Fibers Ltd
+
+Role & Objective:
+Act as a Senior Institutional Equity Research Analyst specializing in the Indian Textiles, Apparel, and Technical Textiles sector. Conduct a comprehensive, institutional-grade fundamental and comparative analysis of the following 14 export-oriented Indian textile companies:
+
+• K.P.R. Mill Ltd
+• Arvind Ltd
+• Sonaselection India Ltd (Listed in September 2026)
+• Orbit Exports Ltd
+
+Analytical Structure & Required Information:
+1. Business Model & Export Revenue Mix
+• Core Segments: Categorize each company by its primary vertical (Cotton Yarn, Home Textiles, Knitted/Woven Garments, Technical Textiles, Specialty Synthetics, or Niche Fabrics).
+• Export Exposure: Provide the exact or latest available percentage of revenue derived from exports. Identify key export geographies (US, EU, UK, Asia, etc.) and major global marquee clients where disclosed.
+• Value Chain Integration: Assess the degree of vertical integration (spinning to fabric to garmenting/home textiles) and how it protects gross margins.
+2. Historical Financial Performance & Unit Economics (Last 3–5 Years)
+• Compile a standardized comparative table covering Revenue CAGR, EBITDA Margins (%), PAT Margins (%), Return on Capital Employed (ROCE %), and Return on Equity (ROE %).
+• Highlight working capital efficiency (Cash Conversion Cycle, Inventory Days, Receivable Days) and balance sheet health (Net Debt-to-EBITDA, Interest Coverage Ratio).
+• Identify structural margin leaders versus cyclical commodity players.
+3. Capital Expenditure (Capex) & Growth Triggers
+• Detail ongoing and announced Capex plans, capacity additions, and expected commissioning timelines.
+• Evaluate strategic shifts toward higher-margin value-added products (e.g., technical textiles, specialty yarns, garmenting expansion, or renewable energy integration for power cost reduction).
+4. Macro & Geopolitical Tailwinds / Headwinds
+• Trade Dynamics: Analyze the impact of the China+1 sourcing strategy, Bangladesh supply chain shifts, and Free Trade Agreements (FTAs such as India-UK, India-EU, and India-Australia).
+• Raw Material Volatility: Assess sensitivity to domestic vs. international cotton price spreads (Cotlook A Index vs. Shankar-6) and crude-linked synthetic raw material prices (PTA/MEG).
+• Currency & Policy: Evaluate sensitivity to USD/INR fluctuations and reliance on government export incentives (RoSCTL, RoDTEP, PLI scheme).
+5. Valuation & Peer Benchmarking
+• Present current valuation multiples (Trailing P/E, Forward P/E, EV/EBITDA, Price-to-Book) alongside 5-year historical median multiples to identify valuation comfort or froth.
+• Group the 14 companies into logical peer buckets (e.g., Integrated Apparel/Home Textile Giants, Pure-Play Spinners, Technical & Specialty Textile Leaders) for an apples-to-apples comparison.
+6. Key Risks & Institutional Conclusion
+• Detail company-specific and sector-wide risks (client concentration, inventory write-downs, regulatory changes, or governance red flags).
+• Conclude with a conviction ranking categorizing the companies into: Top Structural Compounders, Cyclical Turnaround Plays, and Niche/Value Opportunities, backed by clear investment theses.
+Formatting Rules:
+• Use clean markdown tables for all financial, operational, and valuation comparisons.
+• Clearly flag any companies in the list that are privately held (such as Kusumgar or Sona Selection) where public market multiples do not apply, and provide available operational/credit rating insights instead.
+• Maintain an objective, data-driven, institutional tone. Cite the most recent fiscal year (FY25/FY26) and trailing twelve-month (TTM) figures where available.
+
+
 
 4. EXPORT-ORIENTED PLAYERS (>70% Export Revenue)
 Welspun Living
