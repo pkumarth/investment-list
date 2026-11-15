@@ -21,6 +21,20 @@ A. Mass-market innerwear(severe channel stuffing): Dollar Industries,Lux Industr
 B. Chinese Competiton and Crude-Linked Synthetics (PTA/MEG): Bombay Dyeing, Donear Industries, and Siyaram Silk Mills 
 
 3. DOMESTIC NON-BRANDED / B2B PLAYERS (>70% Domestic Revenue)
+
+
+Institutional Summary & Conviction
+
+• Core Compounders: Voith Paper Fabrics, GHCL Textiles, and Ganesha Ecosphere.
+• Cyclical / Value Rebound: Borana Weaves, Swaraj Suiting, RSWM Ltd, and Nahar Spinning Mills.
+• Avoid: Alok Industries, Vishal Fabrics, Jindal Worldwide, SBC Exports, and distressed micro-cap shells.
+
+Management Quality & Execution:  Voith Paper Fabrics (High, 8.5/10), GHCL Textiles (High, 8.5/10), and Ganesha Ecosphere (High, 8.0/10) lead ,  Filatex India, Century Enka, Borana Weaves, Swaraj Suiting, and Sanathan Textiles demonstrate solid asset turns and operational scaling are mid tier mgmt ,
+
+Structural Margin Leaders: Voith Paper Fabrics (26.9% EBITDA margin, zero debt), Borana Weaves (23.6% EBITDA margin, 32.9% ROCE), and Swaraj Suiting (19.3% EBITDA margin, 22.8% ROE) structurally outperform due to technical product moats, high-speed loom automation, and state/renewable power subsidies.
+
+Cyclical Commodity Spinners & Synthetics: RSWM, Sutlej Textiles, Nahar Spinning, Alok Industries, and Indo Rama Synthetics operate on thin 3%–7% EBITDA margins with high financial leverage (Net Debt/EBITDA of 3.5x–12x+), leaving bottom-line earnings highly vulnerable to cotton-yarn spread compression and PTA/MEG volatility.
+
 Sanathan Textiles
 Filatex India
 Alok Industries
