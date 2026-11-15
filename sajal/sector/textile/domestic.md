@@ -61,3 +61,4 @@ Analyse depply of the mangment of these company based on rhree param
 - partner and customer how much trust the company . based on different source like glassdor and other website, generate data 
 - CFO/EBITA trend in coming 10 year , ROCE  trend in 5-10 year , Gross profit margin trend in last 10 year , opm trend margin in last 10 year ,debt/EBITDA ratio trend from last 10 year, sales growth trend , profit growth trend 
 - current valuation i.e P/B .avg P/B if 10 year , P/S and P/S of 10 year avg , EV/EVITDA ,EV/EBITDA for 10 year avergaing
+- capacity utilisation in each business segment and what is plan for future utilisation increase or new capacity planned and when it will be live
