@@ -20,7 +20,7 @@ Working Capital Traps & Cyclical Players:
 A. Mass-market innerwear(severe channel stuffing): Dollar Industries,Lux Industries(mgmt quality issue),Rupa & Co(market share loose)
 B. Chinese Competiton and Crude-Linked Synthetics (PTA/MEG): Bombay Dyeing, Donear Industries, and Siyaram Silk Mills 
 
-3. DOMESTIC NON-BRANDED / B2B PLAYERS (>70% Domestic Revenue)
+2. DOMESTIC NON-BRANDED / B2B PLAYERS (>70% Domestic Revenue)
 
 
 Institutional Summary & Conviction
