@@ -54,11 +54,29 @@ Vishal Fabrics
 
 
 ================================
+
 Analyse depply of the mangment of these company based on rhree param 
-- trustworthiness and say to do ratio in concall 
-- capital allocation in right sector and area  and which can be future revenue growth potential . based on history to current u can identify 
-- innovation and energy in exceution 
-- partner and customer how much trust the company . based on different source like glassdor and other website, generate data 
-- CFO/EBITA trend in coming 10 year , ROCE  trend in 5-10 year , Gross profit margin trend in last 10 year , opm trend margin in last 10 year ,debt/EBITDA ratio trend from last 10 year, sales growth trend , profit growth trend 
-- current valuation i.e P/B .avg P/B if 10 year , P/S and P/S of 10 year avg , EV/EVITDA ,EV/EBITDA for 10 year avergaing
-- capacity utilisation in each business segment and what is plan for future utilisation increase or new capacity planned and when it will be live
+1. trustworthiness and say to do ratio in concall 
+2. capital allocation in right sector and area  and which can be future revenue growth potential . based on history to current u can identify 
+3. innovation and energy in exceution 
+4. partner and customer how much trust the company . based on different source like glassdor and other website, generate data 
+5. CFO/EBITA trend in coming 10 year , ROCE  trend in 5-10 year , Gross profit margin trend in last 10 year , opm trend margin in last 10 year ,debt/EBITDA ratio trend from last 10 year, sales growth trend , profit growth trend 
+6. current valuation i.e P/B .avg P/B if 10 year , P/S and P/S of 10 year avg , EV/EVITDA ,EV/EBITDA for 10 year avergaing
+7. capacity utilisation in each business segment and what is plan for future utilisation increase or new capacity planned and when it will be live and what will be margin in that
+8. from where next growth will come in revenue 
+9. is the company is cyclical or structural .if cyclical then at what valuation on varous  ratio one should buy and sell . if structural then at what valuation one should buy it and sell it in ase of hype.
+----------
+Fundamental entry points in a stock:
+1. Increasing capacity utilisation leading to improvement in margins.
+2. Topline growth accelerates. 
+3. New business development like a long term contract or a new management with a proven pedigree coming in.
+4. Chat GPT or Cdmo moment for the industry when the growth rapidly accelerates for all the players. 
+5. De leveraging event : when the company starts paying off its debt or sells a non performing asset to deleverage.
+6. Margin expansion due to product mix changing. The co starts selling higher margin products or the company does backward/forward integration which improves the margins. 
+7. Restructuring exercise: when the co shuts down the non profitable plants. 
+8. Operating leverage time bomb: fixed costs don’t grow in proportion to the sales growth. When capacity utilisation increases or industry cycle turns. Margins can explode.
+
+Best fundamental set ups have 3 things to offer:
+1. Accelerating topline and rate of change.
+2. Margins expansion.
+3. Possibility of multiple expansion.
