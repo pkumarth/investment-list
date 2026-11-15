@@ -1,23 +1,19 @@
 text
 1. DOMESTIC-ORIENTED BRANDED PLAYERS (>70% Domestic Revenue)
-Page Industries
-Lux Industries
-Raymond Lifestyle
-Kewal Kiran Clothing
-Siyaram Silk Mills
-Cantabil Retail
-Bombay Dyeing
-Dollar Industries
-Iris Clothings
-Monte Carlo Fashions
-Rupa & Co
-Karnika Industries
-Bizotic Commercial
-Purple United
-Thomas Scott
-Donear Industries
+Top Structural Compounders (Core Portfolio Holdings): Page Industries , Kewal Kiran Clothing , Cantabil Retail
+Cyclical Turnaround & Export FTA Plays (Tactical Alpha): Raymond Lifestyle(GST Issue) , Siyaram Silk Mills , Dollar Industries
+Niche / Small-Cap Growth Opportunities (High Beta / Selective Allocation): Iris Clothings(Vertically integrated kidswear manufacturer),Thomas Scott (India)(High-velocity digital-first apparel platform)
+Underweight / Avoid: Bombay Dyeing(chronically negative core PSF operating margins; pure real estate play), Rupa & Co. (stagnant top line and 7% ROE), and Bizotic Commercial (low-margin trading model vulnerable to working capital swings)
 
-2. DOMESTIC NON-BRANDED / B2B PLAYERS (>70% Domestic Revenue)
+Bucket A: Branded Innerwear & Hosiery: Page Industries,  Dollar Industries,Lux Industries(mgmt quality issue),Rupa & Co(market share loose)
+Bucket B: Integrated Suiting, Shirting & Specialty Synthetics: Raymond Lifestyle(GST issue), Bombay Dyeing,Siyaram Silk Mills,Donear Industries
+Bucket C: Branded Apparel, Winterwear & Retail: Kewal Kiran Clothing ,Cantabil Retail,Monte Carlo Fashions,Bizotic Commercial,Thomas Scott (India)
+Bucket D: High-Growth Kidswear Specialists: Karnika Industries , Purple United Sales , Iris Clothings
+Working Capital Traps & Cyclical Players: 
+A. Mass-market innerwear(severe channel stuffing): Dollar Industries,Lux Industries(mgmt quality issue),Rupa & Co(market share loose)
+B. Chinese Competiton and Crude-Linked Synthetics (PTA/MEG): Bombay Dyeing, Donear Industries, and Siyaram Silk Mills 
+
+3. DOMESTIC NON-BRANDED / B2B PLAYERS (>70% Domestic Revenue)
 Sanathan Textiles
 Filatex India
 Alok Industries
