@@ -67,14 +67,15 @@ Analyse depply of the mangment of these company based on rhree param
 9. is the company is cyclical or structural .if cyclical then at what valuation on varous  ratio one should buy and sell . if structural then at what valuation one should buy it and sell it in ase of hype.
 ----------
 Fundamental entry points in a stock:
-1. Increasing capacity utilisation leading to improvement in margins.
-2. Topline growth accelerates. 
-3. New business development like a long term contract or a new management with a proven pedigree coming in.
-4. Chat GPT or Cdmo moment for the industry when the growth rapidly accelerates for all the players. 
-5. De leveraging event : when the company starts paying off its debt or sells a non performing asset to deleverage.
-6. Margin expansion due to product mix changing. The co starts selling higher margin products or the company does backward/forward integration which improves the margins. 
-7. Restructuring exercise: when the co shuts down the non profitable plants. 
-8. Operating leverage time bomb: fixed costs don’t grow in proportion to the sales growth. When capacity utilisation increases or industry cycle turns. Margins can explode.
+1. What is total addressable market in which it operates . Who are the competitor of the company . How  company is positioned in business segment.
+2. Increasing capacity utilisation leading to improvement in margins.
+3. Topline growth accelerates. 
+4. New business development like a long term contract or a new management with a proven pedigree coming in.
+5. Chat GPT or Cdmo moment for the industry when the growth rapidly accelerates for all the players. 
+6. De leveraging event : when the company starts paying off its debt or sells a non performing asset to deleverage.
+7. Margin expansion due to product mix changing. The co starts selling higher margin products or the company does backward/forward integration which improves the margins. 
+8. Restructuring exercise: when the co shuts down the non profitable plants. 
+9. Operating leverage time bomb: fixed costs don’t grow in proportion to the sales growth. When capacity utilisation increases or industry cycle turns. Margins can explode.
 
 Best fundamental set ups have 3 things to offer:
 1. Accelerating topline and rate of change.
