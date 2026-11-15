@@ -2,6 +2,8 @@
 
 Mgmt Quality:  Page Industries , Kewal Kiran Clothing , Cantabil Retail , Siyaram Silk Mills ,Iris Clothings, Dollar Industries , Raymond Lifestyle , Karnika Industries ,Thomas Scott;
 
+A granular Forensic Red-Flag Audit (related-party transactions, contingent liabilities, and auditor remarks) for the SME and mid-cap names (Thomas Scott, Lux Industries, and Raymond Lifestyle);
+
 Top Structural Compounders (Core Portfolio Holdings): Page Industries , Kewal Kiran Clothing , Cantabil Retail;
 
 Cyclical Turnaround & Export FTA Plays (Tactical Alpha): Raymond Lifestyle(GST Issue) , Siyaram Silk Mills , Dollar Industries;
