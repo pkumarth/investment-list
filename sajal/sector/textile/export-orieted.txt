@@ -89,7 +89,13 @@ Kitex Garments
 S P Apparels
 Faze Three
 Himatsingka Seide
-Brahm Virat Industries
+
+Fully Integrated Giants (Stages 2 to 5): Welspun Living,S P Apparels,Himatsingka Seide
+Mid-to-Downstream Integrated Specialists (Stages 3 to 5): Kitex Garments, Gokaldas Exports, Brahm Virat Industries 
+Asset-Light Downstream & Front-End Models (Focus on Stages 4 & 5): Indo Count Industries , Faze Three , Pearl Global Industries ,PDS 
+
+• Asset-Heavy Integration (Welspun, Himatsingka, S.P. Apparels, Kitex): Captures margin at every stage and guarantees quality/traceability, but requires heavy upfront capex and suffers operating deleverage during global demand slowdowns.
+• Asset-Light Downstream (PDS, Pearl Global, Indo Count, Faze Three): Generates higher ROCE (20%–30%+) and faster scalability by letting upstream mills absorb spinning/weaving capex while capturing the high-margin design, processing, and brand relationships
 
 
 
