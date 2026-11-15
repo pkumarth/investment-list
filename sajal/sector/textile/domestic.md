@@ -1,8 +1,11 @@
-text
 1. DOMESTIC-ORIENTED BRANDED PLAYERS (>70% Domestic Revenue):
+   
 Top Structural Compounders (Core Portfolio Holdings): Page Industries , Kewal Kiran Clothing , Cantabil Retail;
+
 Cyclical Turnaround & Export FTA Plays (Tactical Alpha): Raymond Lifestyle(GST Issue) , Siyaram Silk Mills , Dollar Industries;
+
 Niche / Small-Cap Growth Opportunities (High Beta / Selective Allocation): Iris Clothings(Vertically integrated kidswear manufacturer),Thomas Scott (India)(High-velocity digital-first apparel platform);
+
 Underweight / Avoid: Bombay Dyeing(chronically negative core PSF operating margins; pure real estate play), Rupa & Co. (stagnant top line and 7% ROE), and Bizotic Commercial (low-margin trading model vulnerable to working capital swings);
 
 Bucket A: Branded Innerwear & Hosiery: Page Industries,  Dollar Industries,Lux Industries(mgmt quality issue),Rupa & Co(market share loose)
