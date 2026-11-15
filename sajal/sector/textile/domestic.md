@@ -65,6 +65,7 @@ Analyse depply of the mangment of these company based on rhree param
 7. capacity utilisation in each business segment and what is plan for future utilisation increase or new capacity planned and when it will be live and what will be margin in that
 8. from where next growth will come in revenue 
 9. is the company is cyclical or structural .if cyclical then at what valuation on varous  ratio one should buy and sell . if structural then at what valuation one should buy it and sell it in ase of hype.
+10. What will be return expectaion from here based on historical sales growth ,profit growth , ebita margin ,debt and capex done 
 ----------
 Fundamental entry points in a stock:
 1. What is total addressable market in which it operates . Who are the competitor of the company . How  company is positioned in business segment.
