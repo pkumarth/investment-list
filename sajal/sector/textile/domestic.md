@@ -1,6 +1,7 @@
 1. DOMESTIC-ORIENTED BRANDED PLAYERS (>70% Domestic Revenue):
 
-Mgmt Quality:  Page Industries , Kewal Kiran Clothing , Cantabil Retail , Siyaram Silk Mills ,Iris Clothings, Dollar Industries , Raymond Lifestyle , Karnika Industries ,Thomas Scott
+Mgmt Quality:  Page Industries , Kewal Kiran Clothing , Cantabil Retail , Siyaram Silk Mills ,Iris Clothings, Dollar Industries , Raymond Lifestyle , Karnika Industries ,Thomas Scott;
+
 Top Structural Compounders (Core Portfolio Holdings): Page Industries , Kewal Kiran Clothing , Cantabil Retail;
 
 Cyclical Turnaround & Export FTA Plays (Tactical Alpha): Raymond Lifestyle(GST Issue) , Siyaram Silk Mills , Dollar Industries;
