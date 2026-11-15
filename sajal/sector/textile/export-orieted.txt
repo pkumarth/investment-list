@@ -7,9 +7,9 @@ Stage 5: Final Products (Garments/Home/Tech)
 stage1: Garware Tech. Fibres
 stage3>stage4>stage5: Kusumgar , Sonaselection India ,Orbit Exports
 stage2>stage3>stage4>stage5: K.P.R. Mill ,Arvind  Ltd,Trident Ltd
-stage2>stage3>stage5: Precot Ltd 
 stage2>stage3>stage4:Vardhman Textiles, Nitin Spinners, Precot Ltd 
 stage2>stage4:Ambika Cotton Mills , AYM Syntex,Sarla Performance
+stage2>stage3>stage5: Precot Ltd 
 stage2:sportking
 
 
