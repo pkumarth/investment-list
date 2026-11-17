@@ -21,8 +21,7 @@ Allcargo Logistics
 
 
 Classification Summary Table
-
-
+----------------------------
 Company	Primary Category	Core Segment & Customer Base
 Shadowfax Technologies	B2C-Dominated	Hyperlocal delivery, quick commerce, and e-commerce last-mile parcels.
 Delhivery	Hybrid (B2C + B2B)	E-commerce express parcel (B2C) combined with part-truckload freight and warehousing (B2B).
