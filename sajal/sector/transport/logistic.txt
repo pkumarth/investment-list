@@ -1,0 +1,42 @@
+B2B:
+----
+B2C-Dominated (1 Company): Shadowfax Technologies 
+
+B2B and B2C: Hybrid
+-------------------
+Hybrid B2C + B2B (2 Companies): Delhivery and Blue Dart Express
+
+B2C:
+----
+Container Corporation of India
+Transport Corporation of India
+TVS Supply Chain Solutions
+VRL Logistics
+Afcom Holdings
+Mahindra Logistics
+Gateway Distriparks
+TCI Express
+Allcargo Global
+Allcargo Logistics
+
+
+Classification Summary Table
+
+
+Company	Primary Category	Core Segment & Customer Base
+Shadowfax Technologies	B2C-Dominated	Hyperlocal delivery, quick commerce, and e-commerce last-mile parcels.
+Delhivery	Hybrid (B2C + B2B)	E-commerce express parcel (B2C) combined with part-truckload freight and warehousing (B2B).
+Blue Dart Express	Hybrid (B2B + B2C)	Time-sensitive air and ground express for corporate documents/samples (B2B) and premium e-commerce (B2C).
+Container Corporation of India	Pure B2B	Rail container transport and inland container depots for bulk industrial and EXIM cargo.
+Transport Corporation of India	Pure B2B	Multimodal freight, coastal shipping, and enterprise supply chain solutions.
+TVS Supply Chain Solutions	Pure B2B	End-to-end 3PL, in-plant manufacturing logistics, and global freight forwarding.
+VRL Logistics	Pure B2B	Goods transport (less-than-truckload surface freight) for traders and manufacturers.
+Afcom Holdings	Pure B2B	Airport-to-airport international air cargo freighter operations.
+Mahindra Logistics	Pure B2B	Contract logistics (3PL), enterprise warehousing, and B2B express freight.
+Gateway Distriparks	Pure B2B	Container freight stations (CFS), inland container depots (ICD), and rail-linked logistics.
+Skyways Air Services	Pure B2B	International air and ocean freight forwarding and customs clearance.
+TCI Express	Pure B2B	Time-definite B2B surface and air express cargo for corporate clients.
+Allcargo Global	Pure B2B	International supply chain management and global LCL (less-than-container-load) consolidation.
+Allcargo Logistics	Pure B2B	Domestic express distribution (via Gati) and contract logistics for businesses.
+
+
