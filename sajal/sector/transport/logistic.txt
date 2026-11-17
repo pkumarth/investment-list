@@ -23,9 +23,12 @@ Allcargo Logistics
 Classification Summary Table
 ----------------------------
 Company	Primary Category	Core Segment & Customer Base
+
 Shadowfax Technologies	B2C-Dominated	Hyperlocal delivery, quick commerce, and e-commerce last-mile parcels.
+
 Delhivery	Hybrid (B2C + B2B)	E-commerce express parcel (B2C) combined with part-truckload freight and warehousing (B2B).
 Blue Dart Express	Hybrid (B2B + B2C)	Time-sensitive air and ground express for corporate documents/samples (B2B) and premium e-commerce (B2C).
+
 Container Corporation of India	Pure B2B	Rail container transport and inland container depots for bulk industrial and EXIM cargo.
 Transport Corporation of India	Pure B2B	Multimodal freight, coastal shipping, and enterprise supply chain solutions.
 TVS Supply Chain Solutions	Pure B2B	End-to-end 3PL, in-plant manufacturing logistics, and global freight forwarding.
