@@ -40,5 +40,67 @@ Skyways Air Services	Pure B2B	International air and ocean freight forwarding and
 TCI Express	Pure B2B	Time-definite B2B surface and air express cargo for corporate clients.
 Allcargo Global	Pure B2B	International supply chain management and global LCL (less-than-container-load) consolidation.
 Allcargo Logistics	Pure B2B	Domestic express distribution (via Gati) and contract logistics for businesses.
+====================================Prompt==========================================================
+### ROLE & OBJECTIVE
+Act as a Senior Institutional Equity Research Analyst specializing in the Logistics, Supply Chain, and Industrials sector. Your objective is to conduct a rigorous, bottom-up fundamental, operational, and valuation analysis of 
+Container Corporation of India
+Transport Corporation of India
+TVS Supply Chain Solutions
+VRL Logistics
+Afcom Holdings
+Mahindra Logistics
+Gateway Distriparks
+TCI Express
+Allcargo Global
+Allcargo Logistics
+
+to determine its intrinsic value, competitive moat, and long-term compounding potential.
+
+### ANALYSIS FRAMEWORK
+Structure your institutional research report into the following eight sections. Use tables for numerical comparisons, maintain strict analytical objectivity, and explicitly separate reported accounting metrics from underlying cash-flow reality.
+
+#### 1. Business Model & Revenue Mix Decomposition
+* **Segmental Breakdown:** Disaggregate revenue and EBITDA across core verticals (e.g., Contract Logistics / 3PL, Part-Truckload [PTL] / Express, Full-Truckload [FTL], Global Freight Forwarding, Multimodal / Rail / Seaways).
+* **Asset Intensity Classification:** Classify the business model on the spectrum from pure asset-light (leased warehouses, partner fleets) to asset-heavy (owned trucks, ships, aircraft, rail rakes).
+* **Customer & Industry Concentration:** Assess exposure to key end-markets (automotive, consumer durables, pharma, e-commerce, EXIM trade) and evaluate top-10 client concentration risk.
+
+#### 2. Competitive Moat & Pricing Power Assessment
+* **Switching Costs & Contract Stickiness:** Evaluate average contract tenure (typically 3–5 years for 3PL), integration into client ERP/in-plant assembly lines, and historical client churn rates.
+* **Pricing Power & Cost Pass-Through:** Analyze the company's ability to pass through fuel inflation, toll hikes, and labor wage increases. Identify lag times in rate revisions and whether contracts contain automatic fuel-surcharge clauses.
+* **Network & Infrastructure Advantage:** Assess physical barriers to entry (e.g., Grade-A warehousing sq. ft., strategic port/ICD land, automated sorting hubs, proprietary tech stack).
+
+#### 3. Unit Economics & Operational KPIs
+Analyze operational efficiency over the past 3–5 years (and recent quarterly trajectory):
+* **3PL / Warehousing:** Total warehouse space managed (sq. ft.), capacity utilization/vacancy rates, and revenue per sq. ft.
+* **Freight & Express:** Tonnage handled, yield per kg/tonne, fleet utilization, load factor, and hub-to-hub transit efficiency.
+* **Forwarding:** TEUs (ocean) and tonnes (air) handled, and gross profit per TEU/tonne.
+
+#### 4. Margin Architecture & Operating Leverage
+* **Margin Progression:** Track Gross Margin, EBITDA Margin, EBIT Margin, and PBT Margin over the last 8 quarters and 5 fiscal years.
+* **Ind-AS 116 / IFRS 16 Lease Adjustments:** Strip out accounting distortions from Right-of-Use (RoU) asset depreciation and lease finance costs. Compute **Pre-Ind-AS 116 EBITDA (cash EBITDA)** and **EBITDAR** to compare true operating profitability against asset-owning peers.
+* **Operating Leverage:** Evaluate fixed-cost absorption as new warehouses or sorting hubs mature from ramp-up phase (Year 1) to steady-state profitability (Year 2–3).
+
+#### 5. Working Capital Discipline & Cash Flow Conversion
+* **Cash Conversion Cycle (CCC):** Track Debtor Days (Receivables), Creditor Days, and Net Working Capital as a % of revenue. Flag any aggressive revenue growth funded by stretching receivables.
+* **Free Cash Flow (FCF) & CapEx Intensity:** Calculate Operating Cash Flow (OCF) to EBITDA conversion (%) after adjusting for cash lease payments. Separate Maintenance CapEx from Growth CapEx.
+* **Return Ratios:** Compute **ROCE** and **ROIC** (both including and excluding goodwill from past acquisitions). Compare ROIC against WACC to verify economic value creation.
+
+#### 6. Balance Sheet Health & Capital Allocation
+* **Leverage Profile:** Distinguish between structural debt (term loans/working capital debt) and capitalized lease liabilities. Assess Net Debt / Cash EBITDA and Interest Coverage Ratio.
+* **M&A Track Record:** If the company has grown inorganically, evaluate past acquisitions on integration success, goodwill impairment risk, and post-acquisition ROCE dilution.
+
+#### 7. Peer Benchmarking & Valuation Methodology
+Compare **[INSERT COMPANY NAME]** against 3–4 direct listed peers across:
+* **Valuation Multiples:** EV/EBITDA (primary), EV/EBITDAR (lease-adjusted), P/E, and EV/Sales. Explain why the company trades at a premium or discount to peers based on ROCE, growth, and cash conversion.
+* **Intrinsic Valuation:** Construct a 3-scenario valuation matrix (**Bear, Base, and Bull Case**) over a 3-to-5-year horizon detailing explicit assumptions for Revenue CAGR, Steady-State EBITDA/PBT Margin, Exit Multiple, and Implied Target Price / IRR.
+
+#### 8. Key Risks, Red Flags & Catalysts
+* **Downside Risks:** Detail exposure to macro/industrial slowdowns, global freight rate volatility, captive logistics insourcing by major clients, and working capital traps.
+* **Re-rating Catalysts:** Identify specific near-to-medium-term triggers (e.g., turning loss-making express divisions profitable, filling vacant warehouse capacity, debt deleveraging, or order-book conversion).
+
+### OUTPUT GUIDELINES
+* Do not rely on generic industry commentary; anchor every claim in specific financial metrics, ratios, and operational KPIs.
+* Clearly state any assumptions made where granular segment disclosures are unavailable.
+* Conclude with a concise **Executive Investment Thesis** (5 bullet points summarizing the core bull/bear debate).
 
 
